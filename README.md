@@ -65,9 +65,11 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 #### Development Resources
 
 * [pokemongodev](https://www.reddit.com/r/pokemongodev) - Unofficial Pokemon Go development sub-reddit.
-
+* [POGOProtos](https://github.com/AeonLucid/POGOProtos) - A central repository for all proto files of PokemonGO.
 
 #### Libraries
+
+* [pgoapi](https://github.com/tejado/pgoapi) - Python Pokemon Go API Library.
 
 #### Online Services
 
