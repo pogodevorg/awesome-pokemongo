@@ -6,7 +6,15 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 - [Awesome PokemonGo](#awesome-pokemongo)
     - [Official Links](#official-links)
+      - [Hardware](#official-hardware)
     - [Unofficial Links](#unofficial-links)
+      - [Community](#unofficial-community)
+        - [Blogs](#unofficial-blogs)
+        - [Fansites](#unofficial-fansites)
+        - [Social](#unofficial-social)
+        - [Tutorials](#unofficial-tutorials)
+      - [Hardware](#unofficial-hardware)
+      - [Software](#unofficial-software)
 
 - [Contributing](#contributing)
 
@@ -20,6 +28,41 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [PokemonGoApp](https://twitter.com/PokemonGoApp) - Official twitter.
 * [Niantic](https://nianticlabs.com/) - Official developers website.
 * [NianticLabs](https://twitter.com/NianticLabs) - Official developers twitter.
+
+### Hardware
+
+* [Pokemon Go Plus](http://www.pokemongo.com/pokemon-go-plus/) - A small device to alert you of nearby Pokemon.
+
+
+## Unofficial Links
+
+*Unofficial links in relation to Pokemon Go - use at your discretion.*
+
+### Community
+
+#### Blogs
+
+#### Fansites
+
+#### Social
+
+#### Tutorials
+
+
+### Hardware
+
+* [Pokeball Battery Pack](https://www.etsy.com/listing/466681155/hand-made-pokeball-themed-battery-pack) - Hand-made Pokeball-themed battery pack.
+
+### Software
+
+#### Applications
+
+#### Libraries
+
+#### Online Services
+
+#### Resources
+
 
 # Contributing
 
