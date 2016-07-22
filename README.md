@@ -109,6 +109,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 * [Is Pokemon Go Available Yet](https://www.ispokemongoavailableyet.com) - Get notified when Pokemon Go is available in your country.
 * [Pokevision](https://pokevision.com/) - Real-Time Pokemon Go Map.
+* [Skiplagged](https://skiplagged.com/pokemon) - Live Pokemon on a map.
 
 
 # Contributing
