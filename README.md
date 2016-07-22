@@ -69,6 +69,22 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 #### Libraries
 
+##### C-Sharp
+
+* [POGOLib](https://github.com/AeonLucid/POGOLib) - A community driven PokemonGO API Library written in C#.
+* [Pokemon-Go-Rocket-API](https://github.com/FeroxRev/Pokemon-Go-Rocket-API) - Client API library for Pokemon Go in C#.
+* [PokemonGoApi](https://github.com/ernilos/PokemonGoApi) - API coded in .NET in order to interact with Pokémon GO servers.
+
+##### Java
+
+* [PokeGOAPI-Java](https://github.com/Grover-c13/PokeGOAPI-Java) - Pokemon Go API client.
+
+##### Node
+
+* [Pokemon-GO-node-api](https://github.com/Armax/Pokemon-GO-node-api) - Pokemon GO api node.js library.
+
+##### Python
+
 * [pgoapi](https://github.com/tejado/pgoapi) - Python Pokemon Go API Library.
 
 #### Online Services
