@@ -54,6 +54,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 #### Fansites
 
+* [Pokemon Go Database](http://pokemongo.gamepress.gg/) - Pokemon Go Database, Guides, Forums and Tutorials.
+
 #### Resources
 
 * [Weakness Chart](https://i.redd.it/oy7lrixl8r9x.png) - Calculated weakness types for different Pokemon types.
@@ -115,5 +117,3 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 # Contributing
 
 Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/keyphact/awesome-pokemongo/blob/master/CONTRIBUTING.md) first.
-
-I would keep some pull requests open if I'm not sure whether the libraries are awesome, you could [vote for them](https://github.com/keyphact/awesome-pokemongo/pulls) by adding :+1: to them.
