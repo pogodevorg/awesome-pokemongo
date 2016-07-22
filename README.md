@@ -19,6 +19,12 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
         - [Applications](#applicatons)
         - [Development Resources](#development-resources)
         - [Libraries](#libraries)
+          - [C-Sharp](#c-sharp)
+          - [Java](#java)
+          - [Node](#node)
+          - [PHP](#php)
+          - [Python](#python)
+          - [Ruby](#ruby)
         - [Online Services](#online-services)
 - [Contributing](#contributing)
 
