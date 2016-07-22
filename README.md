@@ -6,16 +6,19 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 - [Awesome PokemonGo](#awesome-pokemongo)
     - [Official Links](#official-links)
-      - [Hardware](#official-hardware)
+      - [Official Hardware](#official-hardware)
     - [Unofficial Links](#unofficial-links)
-      - [Community](#unofficial-community)
-        - [Blogs](#unofficial-blogs)
-        - [Fansites](#unofficial-fansites)
-        - [Social](#unofficial-social)
-        - [Tutorials](#unofficial-tutorials)
-      - [Hardware](#unofficial-hardware)
-      - [Software](#unofficial-software)
-
+      - [Community](#community)
+        - [Blogs](#blogs)
+        - [Fansites](#fansites)
+        - [Social](#social)
+        - [Tutorials](#tutorials)
+      - [Unofficial Hardware](#unofficial-hardware)
+      - [Unofficial Software](#unofficial-software)
+        - [Applications](#applicatons)
+        - [Development Resources](#development-resources)
+        - [Libraries](#libraries)
+        - [Online Services](#online-services)
 - [Contributing](#contributing)
 
 - - -
@@ -49,19 +52,26 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 #### Tutorials
 
 
-### Hardware
+### Unofficial Hardware
 
 * [Pokeball Battery Pack](https://www.etsy.com/listing/466681155/hand-made-pokeball-themed-battery-pack) - Hand-made Pokeball-themed battery pack.
 
-### Software
+### Unofficial Software
 
 #### Applications
+
+* [PokeScanner](https://github.com/BrianEstrada/PokeScanner) - A Scanning tool for Pokemon Go for Android.
+
+#### Development Resources
+
+* [pokemongodev](https://www.reddit.com/r/pokemongodev) - Unofficial Pokemon Go development sub-reddit.
+
 
 #### Libraries
 
 #### Online Services
 
-#### Resources
+* [Pokevision](https://pokevision.com/) - Real-Time Pokemon Go Map.
 
 
 # Contributing
