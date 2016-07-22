@@ -88,6 +88,10 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 * [Pokemon-GO-node-api](https://github.com/Armax/Pokemon-GO-node-api) - Pokemon GO api node.js library.
 
+##### PHP
+
+* [pokemongo-php](https://github.com/skiplagged/pokemongo-php) - A PHP module that makes it easy to communicate with the Pokemon Go API.
+
 ##### Python
 
 * [pgoapi](https://github.com/tejado/pgoapi) - Python Pokemon Go API Library.
