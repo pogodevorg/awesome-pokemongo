@@ -12,6 +12,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
         - [Blogs](#blogs)
         - [Fansites](#fansites)
         - [Social](#social)
+        - [Resources](#resources)
         - [Tutorials](#tutorials)
       - [Unofficial Hardware](#unofficial-hardware)
       - [Unofficial Software](#unofficial-software)
@@ -47,9 +48,12 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 #### Fansites
 
+#### Resources
+
+* [Weakness Chart](https://i.redd.it/oy7lrixl8r9x.png) - Calculated weakness types for different Pokemon types.
+
 #### Social
 
-#### Tutorials
 
 
 ### Unofficial Hardware
@@ -65,7 +69,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 #### Development Resources
 
 * [pokemongodev](https://www.reddit.com/r/pokemongodev) - Unofficial Pokemon Go development sub-reddit.
-* [POGOProtos](https://github.com/AeonLucid/POGOProtos) - A central repository for all proto files of PokemonGO.
+* [POGOProtos](https://github.com/AeonLucid/POGOProtos) - A central repository for all proto files of Pokemon Go.
+* [Unbundling Pokemon Go](https://applidium.com/en/news/unbundling_pokemon_go/) - Reverse engineering article about Pokemon Go.
 
 #### Libraries
 
@@ -73,7 +78,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 * [POGOLib](https://github.com/AeonLucid/POGOLib) - A community driven PokemonGO API Library written in C#.
 * [Pokemon-Go-Rocket-API](https://github.com/FeroxRev/Pokemon-Go-Rocket-API) - Client API library for Pokemon Go in C#.
-* [PokemonGoApi](https://github.com/ernilos/PokemonGoApi) - API coded in .NET in order to interact with Pokémon GO servers.
+* [PokemonGoApi](https://github.com/ernilos/PokemonGoApi) - API coded in .NET in order to interact with Pokemon Go servers.
 
 ##### Java
 
@@ -87,8 +92,13 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 * [pgoapi](https://github.com/tejado/pgoapi) - Python Pokemon Go API Library.
 
+##### Ruby
+
+* [poke-api](https://github.com/nabeelamjad/poke-api) - Ruby port of pgoapi.
+
 #### Online Services
 
+* [Is Pokemon Go Available Yet](https://www.ispokemongoavailableyet.com) - Get notified when Pokemon Go is available in your country.
 * [Pokevision](https://pokevision.com/) - Real-Time Pokemon Go Map.
 
 
