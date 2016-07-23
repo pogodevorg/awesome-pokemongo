@@ -19,6 +19,9 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
         - [Applications](#applicatons)
           - [Android](#android)
           - [iPhone](#iphone)
+          - [Online Services](#online-services)
+            - [Mapping](#mapping)
+            - [Misc](#misc)
         - [Development Resources](#development-resources)
         - [Libraries](#libraries)
           - [C-Sharp](#c-sharp)
@@ -27,7 +30,6 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
           - [PHP](#php)
           - [Python](#python)
           - [Ruby](#ruby)
-        - [Online Services](#online-services)
 - [Contributing](#contributing)
 
 - - -
@@ -44,7 +46,6 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 ### Hardware
 
 * [Pokemon Go Plus](http://www.pokemongo.com/pokemon-go-plus/) - A small bluetooth device to alert you of nearby Pokemon.
-
 
 ## Unofficial Links
 
@@ -85,6 +86,19 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ##### iPhone
 
+#### Online Services
+
+##### Mapping
+
+* [Pokecrew](https://www.pokecrew.com/) - Find, report, and share local Pokemon sightings.
+* [pokegoworld](https://www.pokegoworld.com) - A crowd-sourced, self-cleaning worldwide map of Pokemon, PokéStops, and Gyms for PokemonGO.
+* [Pokevision](https://pokevision.com/) - Real-Time PokemonGO Map.
+* [Skiplagged](https://skiplagged.com/pokemon) - Live Pokemon on a map.
+
+##### Misc
+
+* [Is Pokemon Go Available Yet](https://www.ispokemongoavailableyet.com) - Get notified when PokemonGO is available in your country.
+
 #### Development Resources
 
 * [pokemongodev](https://www.reddit.com/r/pokemongodev) - Unofficial PokemonGO development sub-reddit.
@@ -120,13 +134,6 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 ##### Ruby
 
 * [poke-api](https://github.com/nabeelamjad/poke-api) - Ruby port of pgoapi.
-
-#### Online Services
-
-* [Is Pokemon Go Available Yet](https://www.ispokemongoavailableyet.com) - Get notified when PokemonGO is available in your country.
-* [Pokevision](https://pokevision.com/) - Real-Time PokemonGO Map.
-* [Skiplagged](https://skiplagged.com/pokemon) - Live Pokemon on a map.
-
 
 # Contributing
 
