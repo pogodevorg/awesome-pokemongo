@@ -79,6 +79,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 * [pokemongodev](https://www.reddit.com/r/pokemongodev) - Unofficial Pokemon Go development sub-reddit.
 * [POGOProtos](https://github.com/AeonLucid/POGOProtos) - A central repository for all proto files of Pokemon Go.
+* [PokemonGoDecoderForBurp](https://github.com/pokeolaf/PokemonGoDecoderForBurp) - A simpe decoder for requests/responses made by PokemonGo in burp.
 * [Unbundling Pokemon Go](https://applidium.com/en/news/unbundling_pokemon_go/) - Reverse engineering article about Pokemon Go.
 
 #### Libraries
