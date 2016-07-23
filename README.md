@@ -33,6 +33,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
         - [PHP](#php)
         - [Python](#python)
         - [Ruby](#ruby)
+        - [Swift](#swift)
   - [Contributing](#contributing)
 
 - - -
@@ -64,6 +65,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 #### Resources
 
+* [PidgeyCalc](http://pidgeycalc.com) - A calculator for maximising your Lucky Egg XP gains in PokemonGO.
 * [PokemonGO Wiki](https://pkmngowiki.com/wiki/Main_Page) - PokemonGO Wiki.
 * [Pokemon GO Wiki Guide](http://uk.ign.com/wikis/pokemon-go) - PokemonGO Wiki Guide.
 * [Weakness Chart](https://i.redd.it/oy7lrixl8r9x.png) - Calculated weakness types for different Pokemon types.
@@ -93,6 +95,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ##### iPhone
 
+* [Pokemap Live iOS](https://github.com/ruffnecktsk/pokemap_live_ios) - iOS application with live pokemon map
+
 #### Online
 
 ##### Mapping
@@ -114,6 +118,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 #### Bots
 
+* [PokeMate](https://github.com/SwipeX/PokeMate) - Automated PokemonGO Application.
+* [Pokemon-Go-Automation](https://github.com/eggins/Pokemon-Go-Automation) - A PokemonGO Bot.
 * [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) - A python script for catching pokemons and spinning pokestops on PokemonGO.
 * [PokemonGoBot](https://github.com/jabbink/PokemonGoBot) - Bot that plays PokemonGO.
 
@@ -126,12 +132,16 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 * [PokeLocator](https://github.com/emeth-/pokelocater) - Display pokemon nearby to your location on a map.
 * [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - Live visualization of all the pokemon in your area... and more!
+* [Pokemon Go Notification System](https://github.com/jxmorris12/PokemonGo-Finder) - A fork of the PokemonGo-Map repository with the purpose of allowing users to search for specific Pokemon.
 
 ##### Reverse Engineering
 
+* [POGOProtos](https://github.com/AeonLucid/POGOProtos) - [CODE] A central repository for all protobuf files of PokemonGO.
 * [PokemonGoDecoderForBurp](https://github.com/pokeolaf/PokemonGoDecoderForBurp) - [CODE] A simpe decoder for requests/responses made by PokemonGo in burp.
 * [pokemon-go-mitm-node](https://github.com/rastapasta/pokemon-go-mitm-node) - [CODE] PokemonGO MITM Proxy - Intercepts the traffic between your PokemonGO App and Niantic's servers.
+* [Pokemon Go IV Miner](http://www.pokemongonexus.com) - [WEBSITE] An easy way to see all of your pokemons' IVs!
 * [pogo-optimizer](https://github.com/justinleewells/pogo-optimizer) - [CODE] MITM data analysis utility for PokemonGO.
+* [porygon](https://github.com/numinit/porygon) - [CODE] The unofficial PokemonGO Plus SDK https://numin.it.
 * [Unbundling Pokemon Go](https://applidium.com/en/news/unbundling_pokemon_go/) - [ARTICLE] Reverse engineering article about PokemonGO.
 
 #### API Libraries
@@ -163,6 +173,10 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 ##### Ruby
 
 * [poke-api](https://github.com/nabeelamjad/poke-api) - Ruby port of pgoapi.
+
+##### Swift
+
+* [pgoapi-swift](https://github.com/lsapan/pgoapi-swift) - A PokemonGO API library for Swift.
 
 # Contributing
 
