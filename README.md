@@ -65,6 +65,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 #### Resources
 
 * [PokemonGO Wiki](https://pkmngowiki.com/wiki/Main_Page) - PokemonGO Wiki.
+* [Pokemon GO Wiki Guide](http://uk.ign.com/wikis/pokemon-go) - PokemonGO Wiki Guide.
 * [Weakness Chart](https://i.redd.it/oy7lrixl8r9x.png) - Calculated weakness types for different Pokemon types.
 
 #### Social
@@ -113,7 +114,13 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 #### Bots
 
-* [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) - A python script for catching pokemons and spinning pokestops on PokemonGo.
+* [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) - A python script for catching pokemons and spinning pokestops on PokemonGO.
+* [PokemonGoBot](https://github.com/jabbink/PokemonGoBot) - Bot that plays PokemonGO.
+
+#### Controllers
+
+* [Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller) - Play pokemon go safely or at unavailable area.
+* [PokemonGoControllerSuite](https://github.com/adin283/PokemonGoControllerSuite) - HTML web application to control pokemon go.
 
 ##### Mappers
 
