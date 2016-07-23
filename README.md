@@ -101,6 +101,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 * [Is Pokemon Go Available Yet](https://www.ispokemongoavailableyet.com) - Get notified when PokemonGO is available in your country.
 * [MMO Server Status](http://www.mmoserverstatus.com/pokemon_go) - MMO server status for PokemonGO.
+* [Pokemon Go Server status](https://pokemongostatus.org) - Pokemon Go server status updated every minute.
 
 #### Development Resources
 
