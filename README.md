@@ -1,6 +1,6 @@
 # Awesome PokemonGo [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome PokemonGo frameworks, libraries, software, resources and links.
+A curated list of awesome PokemonGO frameworks, libraries, software, resources and links.
 
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
@@ -17,6 +17,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
       - [Unofficial Hardware](#unofficial-hardware)
       - [Unofficial Software](#unofficial-software)
         - [Applications](#applicatons)
+          - [Android](#android)
+          - [iPhone](#iphone)
         - [Development Resources](#development-resources)
         - [Libraries](#libraries)
           - [C-Sharp](#c-sharp)
@@ -32,21 +34,21 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Official Links
 
-*Official links in relation to Pokemon Go.*
+*Official links in relation to PokemonGO.*
 
-* [Pokemon Go](http://www.pokemongo.com/) - Official website.
-* [PokemonGoApp](https://twitter.com/PokemonGoApp) - Official twitter.
-* [Niantic](https://nianticlabs.com/) - Official developers website.
-* [NianticLabs](https://twitter.com/NianticLabs) - Official developers twitter.
+* [Pokemon Go](http://www.pokemongo.com/) - Official PokemonGO website.
+* [PokemonGoApp](https://twitter.com/PokemonGoApp) - Official PokemonGO twitter.
+* [Niantic](https://nianticlabs.com/) - Official developer website.
+* [NianticLabs](https://twitter.com/NianticLabs) - Official developer twitter.
 
 ### Hardware
 
-* [Pokemon Go Plus](http://www.pokemongo.com/pokemon-go-plus/) - A small device to alert you of nearby Pokemon.
+* [Pokemon Go Plus](http://www.pokemongo.com/pokemon-go-plus/) - A small bluetooth device to alert you of nearby Pokemon.
 
 
 ## Unofficial Links
 
-*Unofficial links in relation to Pokemon Go - use at your discretion.*
+*Unofficial links in relation to PokemonGO - use at your discretion.*
 
 ### Community
 
@@ -54,7 +56,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 #### Fansites
 
-* [Pokemon Go Database](http://pokemongo.gamepress.gg/) - Pokemon Go Database, Guides, Forums and Tutorials.
+* [Pokemon Go Database](http://pokemongo.gamepress.gg/) - PokemonGO Database, Guides, Forums and Tutorials.
 
 #### Resources
 
@@ -62,7 +64,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 #### Social
 
-
+* [TheSilphRoad](https://www.reddit.com/r/TheSilphRoad) - Sub-reddit for TheSilphRoad community, an in-person network of PokemonGO enthusiasts.
 
 ### Unofficial Hardware
 
@@ -72,17 +74,25 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 #### Applications
 
+##### Android
+
 * [Pokemap](https://github.com/BrianEstrada/PokeScanner) - A native Android client to map the Pokemon around you.
-* [PokeScanner](https://github.com/omkarmoghe/Pokemap) - A Scanning tool for Pokemon Go for Android.
+* [PokeScanner](https://github.com/omkarmoghe/Pokemap) - A Scanning tool for PokemonGO for Android.
+
+##### Desktop
+
+* [PokemonGo-DesktopMap](https://github.com/omkarmoghe/Pokemap) - Electron App around PokemonGo-Map.
+
+##### iPhone
 
 #### Development Resources
 
-* [pokemongodev](https://www.reddit.com/r/pokemongodev) - Unofficial Pokemon Go development sub-reddit.
+* [pokemongodev](https://www.reddit.com/r/pokemongodev) - Unofficial PokemonGO development sub-reddit.
 * [POGOProtos](https://github.com/AeonLucid/POGOProtos) - A central repository for all proto files of Pokemon Go.
 * [PokemonGoDecoderForBurp](https://github.com/pokeolaf/PokemonGoDecoderForBurp) - A simpe decoder for requests/responses made by PokemonGo in burp.
 * [Unbundling Pokemon Go](https://applidium.com/en/news/unbundling_pokemon_go/) - Reverse engineering article about Pokemon Go.
 
-#### Libraries
+#### API Libraries
 
 ##### C-Sharp
 
@@ -113,7 +123,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 #### Online Services
 
 * [Is Pokemon Go Available Yet](https://www.ispokemongoavailableyet.com) - Get notified when Pokemon Go is available in your country.
-* [Pokevision](https://pokevision.com/) - Real-Time Pokemon Go Map.
+* [Pokevision](https://pokevision.com/) - Real-Time PokemonGO Map.
 * [Skiplagged](https://skiplagged.com/pokemon) - Live Pokemon on a map.
 
 
