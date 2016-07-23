@@ -61,6 +61,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 #### Resources
 
+* [PokemonGO Wiki](https://pkmngowiki.com/wiki/Main_Page) - PokemonGO Wiki.
 * [Weakness Chart](https://i.redd.it/oy7lrixl8r9x.png) - Calculated weakness types for different Pokemon types.
 
 #### Social
@@ -107,6 +108,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [POGOProtos](https://github.com/AeonLucid/POGOProtos) - A central repository for all proto files of PokemonGO.
 * [PokemonGoDecoderForBurp](https://github.com/pokeolaf/PokemonGoDecoderForBurp) - A simpe decoder for requests/responses made by PokemonGo in burp.
 * [pokemon-go-mitm-node](https://github.com/rastapasta/pokemon-go-mitm-node) - PokemonGO MITM Proxy - Intercepts the traffic between your PokemonGO App and Niantic's servers.
+* [pogo-optimizer](https://github.com/justinleewells/pogo-optimizer) - MITM data analysis utility for PokemonGO.
 * [Unbundling Pokemon Go](https://applidium.com/en/news/unbundling_pokemon_go/) - Reverse engineering article about PokemonGO.
 
 #### Libraries
