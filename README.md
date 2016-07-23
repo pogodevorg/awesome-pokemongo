@@ -88,33 +88,34 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 #### Development Resources
 
 * [pokemongodev](https://www.reddit.com/r/pokemongodev) - Unofficial PokemonGO development sub-reddit.
-* [POGOProtos](https://github.com/AeonLucid/POGOProtos) - A central repository for all proto files of Pokemon Go.
+* [POGOProtos](https://github.com/AeonLucid/POGOProtos) - A central repository for all proto files of PokemonGO.
 * [PokemonGoDecoderForBurp](https://github.com/pokeolaf/PokemonGoDecoderForBurp) - A simpe decoder for requests/responses made by PokemonGo in burp.
-* [Unbundling Pokemon Go](https://applidium.com/en/news/unbundling_pokemon_go/) - Reverse engineering article about Pokemon Go.
+* [Unbundling Pokemon Go](https://applidium.com/en/news/unbundling_pokemon_go/) - Reverse engineering article about PokemonGO.
 
-#### API Libraries
+#### Libraries
 
 ##### C-Sharp
 
 * [POGOLib](https://github.com/AeonLucid/POGOLib) - A community driven PokemonGO API Library written in C#.
-* [PokemonGoApi](https://github.com/ernilos/PokemonGoApi) - API coded in .NET in order to interact with Pokemon Go servers.
+* [PokemonGoApi](https://github.com/ernilos/PokemonGoApi) - API coded in .NET in order to interact with PokemonGO servers.
 
 ##### Java
 
-* [PokeGOAPI-Java](https://github.com/Grover-c13/PokeGOAPI-Java) - Pokemon Go API client.
+* [PokeGOAPI-Java](https://github.com/Grover-c13/PokeGOAPI-Java) - PokemonGO API client.
 
 ##### Node
 
-* [Pokemon-GO-node-api](https://github.com/Armax/Pokemon-GO-node-api) - Pokemon GO api node.js library.
+* [pokego-scan](https://github.com/dgoguerra/pokego-scan) - Scan pokemon through PokeVision's API with node.
+* [Pokemon-GO-node-api](https://github.com/Armax/Pokemon-GO-node-api) - PokemonGO api node.js library.
 
 ##### PHP
 
-* [pokemongo-php](https://github.com/skiplagged/pokemongo-php) - A PHP module that makes it easy to communicate with the Pokemon Go API.
+* [pokemongo-php](https://github.com/skiplagged/pokemongo-php) - A PHP module that makes it easy to communicate with the PokemonGO API.
 
 ##### Python
 
-* [pgoapi](https://github.com/tejado/pgoapi) - Python Pokemon Go API Library.
-* [pokemongo-api](https://github.com/rubenvereecken/pokemongo-api) - Pokemon Go API for Python.
+* [pgoapi](https://github.com/tejado/pgoapi) - Python PokemonGO API Library.
+* [pokemongo-api](https://github.com/rubenvereecken/pokemongo-api) - PokemonGO API for Python.
 
 ##### Ruby
 
@@ -122,7 +123,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 #### Online Services
 
-* [Is Pokemon Go Available Yet](https://www.ispokemongoavailableyet.com) - Get notified when Pokemon Go is available in your country.
+* [Is Pokemon Go Available Yet](https://www.ispokemongoavailableyet.com) - Get notified when PokemonGO is available in your country.
 * [Pokevision](https://pokevision.com/) - Real-Time PokemonGO Map.
 * [Skiplagged](https://skiplagged.com/pokemon) - Live Pokemon on a map.
 
