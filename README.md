@@ -103,6 +103,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 ##### Python
 
 * [pgoapi](https://github.com/tejado/pgoapi) - Python Pokemon Go API Library.
+* [pokemongo-api](https://github.com/rubenvereecken/pokemongo-api) - Pokemon Go API for Python.
 
 ##### Ruby
 
