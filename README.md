@@ -5,34 +5,35 @@ A list of awesome PokemonGO frameworks, libraries, software, resources and links
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 - [Awesome PokemonGo](#awesome-pokemongo)
-    - [Official Links](#official-links)
-      - [Official Hardware](#official-hardware)
-    - [Unofficial Links](#unofficial-links)
-      - [Community](#community)
-        - [Blogs](#blogs)
-        - [Fansites](#fansites)
-        - [Social](#social)
-        - [Resources](#resources)
-        - [Tutorials](#tutorials)
-      - [Unofficial Hardware](#unofficial-hardware)
-      - [Unofficial Software](#unofficial-software)
-        - [Applications](#applicatons)
-          - [Android](#android)
-          - [iPhone](#iphone)
-          - [Online](#online)
-            - [Mapping](#mapping)
-            - [Misc](#misc)
-        - [Development Resources](#development-resources)
-          - [Articles](#reverse-engineering)
-          - [Reverse Engineering](#reverse-engineering)
-        - [API Libraries](#api-libraries)
-          - [C-Sharp](#c-sharp)
-          - [Java](#java)
-          - [Node](#node)
-          - [PHP](#php)
-          - [Python](#python)
-          - [Ruby](#ruby)
-- [Contributing](#contributing)
+  - [Official Links](#official-links)
+    - [Official Hardware](#official-hardware)
+  - [Unofficial Links](#unofficial-links)
+    - [Community](#community)
+      - [Blogs](#blogs)
+      - [Fansites](#fansites)
+      - [Social](#social)
+      - [Resources](#resources)
+      - [Tutorials](#tutorials)
+    - [Unofficial Hardware](#unofficial-hardware)
+    - [Unofficial Software](#unofficial-software)
+      - [Applications](#applications)
+        - [Android](#android)
+        - [iPhone](#iphone)
+        - [Online](#online)
+          - [Mapping](#mapping)
+          - [Misc](#misc)
+      - [Development Resources](#development-resources)
+        - [Bots](#bots)
+        - [Mappers](#mappers)
+        - [Reverse Engineering](#reverse-engineering)
+      - [API Libraries](#api-libraries)
+        - [C-Sharp](#c-sharp)
+        - [Java](#java)
+        - [Node](#node)
+        - [PHP](#php)
+        - [Python](#python)
+        - [Ruby](#ruby)
+  - [Contributing](#contributing)
 
 - - -
 
@@ -45,7 +46,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [Niantic](https://nianticlabs.com/) - Official developer website.
 * [NianticLabs](https://twitter.com/NianticLabs) - Official developer twitter.
 
-### Hardware
+### Official Hardware
 
 * [Pokemon Go Plus](http://www.pokemongo.com/pokemon-go-plus/) - A small bluetooth device to alert you of nearby Pokemon.
 
@@ -69,6 +70,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 #### Social
 
 * [TheSilphRoad](https://www.reddit.com/r/TheSilphRoad) - Sub-reddit for TheSilphRoad community, an in-person network of PokemonGO enthusiasts.
+
+#### Tutorials
 
 ### Unofficial Hardware
 
