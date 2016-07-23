@@ -72,7 +72,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 #### Applications
 
-* [PokeScanner](https://github.com/BrianEstrada/PokeScanner) - A Scanning tool for Pokemon Go for Android.
+* [Pokemap](https://github.com/BrianEstrada/PokeScanner) - A native Android client to map the Pokemon around you.
+* [PokeScanner](https://github.com/omkarmoghe/Pokemap) - A Scanning tool for Pokemon Go for Android.
 
 #### Development Resources
 
