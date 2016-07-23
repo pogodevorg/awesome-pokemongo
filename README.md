@@ -19,11 +19,13 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
         - [Applications](#applicatons)
           - [Android](#android)
           - [iPhone](#iphone)
-          - [Online Services](#online)
+          - [Online](#online)
             - [Mapping](#mapping)
             - [Misc](#misc)
         - [Development Resources](#development-resources)
-        - [Libraries](#libraries)
+          - [Articles](#reverse-engineering)
+          - [Reverse Engineering](#reverse-engineering)
+        - [API Libraries](#api-libraries)
           - [C-Sharp](#c-sharp)
           - [Java](#java)
           - [Node](#node)
@@ -101,17 +103,27 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 * [Is Pokemon Go Available Yet](https://www.ispokemongoavailableyet.com) - Get notified when PokemonGO is available in your country.
 * [MMO Server Status](http://www.mmoserverstatus.com/pokemon_go) - MMO server status for PokemonGO.
+* [PokeDates](https://www.projectfixup.com/pokedates) - The first-ever Pokemon Go dating service.
 
 #### Development Resources
 
-* [pokemongodev](https://www.reddit.com/r/pokemongodev) - Unofficial PokemonGO development sub-reddit.
-* [POGOProtos](https://github.com/AeonLucid/POGOProtos) - A central repository for all proto files of PokemonGO.
-* [PokemonGoDecoderForBurp](https://github.com/pokeolaf/PokemonGoDecoderForBurp) - A simpe decoder for requests/responses made by PokemonGo in burp.
-* [pokemon-go-mitm-node](https://github.com/rastapasta/pokemon-go-mitm-node) - PokemonGO MITM Proxy - Intercepts the traffic between your PokemonGO App and Niantic's servers.
-* [pogo-optimizer](https://github.com/justinleewells/pogo-optimizer) - MITM data analysis utility for PokemonGO.
-* [Unbundling Pokemon Go](https://applidium.com/en/news/unbundling_pokemon_go/) - Reverse engineering article about PokemonGO.
+#### Bots
 
-#### Libraries
+* [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) - A python script for catching pokemons and spinning pokestops on PokemonGo.
+
+##### Mappers
+
+* [PokeLocator](https://github.com/emeth-/pokelocater) - Display pokemon nearby to your location on a map.
+* [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - Live visualization of all the pokemon in your area... and more!
+
+##### Reverse Engineering
+
+* [PokemonGoDecoderForBurp](https://github.com/pokeolaf/PokemonGoDecoderForBurp) - [CODE] A simpe decoder for requests/responses made by PokemonGo in burp.
+* [pokemon-go-mitm-node](https://github.com/rastapasta/pokemon-go-mitm-node) - [CODE] PokemonGO MITM Proxy - Intercepts the traffic between your PokemonGO App and Niantic's servers.
+* [pogo-optimizer](https://github.com/justinleewells/pogo-optimizer) - [CODE] MITM data analysis utility for PokemonGO.
+* [Unbundling Pokemon Go](https://applidium.com/en/news/unbundling_pokemon_go/) - [ARTICLE] Reverse engineering article about PokemonGO.
+
+#### API Libraries
 
 ##### C-Sharp
 
@@ -134,6 +146,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 ##### Python
 
 * [pgoapi](https://github.com/tejado/pgoapi) - Python PokemonGO API Library.
+* [Pokemon_Go_API](https://github.com/Mila432/Pokemon_Go_API) - PokemonGO API in Python.
 * [pokemongo-api](https://github.com/rubenvereecken/pokemongo-api) - PokemonGO API for Python.
 
 ##### Ruby
