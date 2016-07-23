@@ -19,7 +19,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
         - [Applications](#applicatons)
           - [Android](#android)
           - [iPhone](#iphone)
-          - [Online Services](#online-services)
+          - [Online Services](#online)
             - [Mapping](#mapping)
             - [Misc](#misc)
         - [Development Resources](#development-resources)
@@ -86,24 +86,27 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ##### iPhone
 
-#### Online Services
+#### Online
 
 ##### Mapping
 
 * [Pokecrew](https://www.pokecrew.com/) - Find, report, and share local Pokemon sightings.
 * [pokegoworld](https://www.pokegoworld.com) - A crowd-sourced, self-cleaning worldwide map of Pokemon, PokéStops, and Gyms for PokemonGO.
+* [PokeMapper](https://pokemapper.co) - Pokemapper: The world-wide PokemonGO map.
 * [Pokevision](https://pokevision.com/) - Real-Time PokemonGO Map.
 * [Skiplagged](https://skiplagged.com/pokemon) - Live Pokemon on a map.
 
 ##### Misc
 
 * [Is Pokemon Go Available Yet](https://www.ispokemongoavailableyet.com) - Get notified when PokemonGO is available in your country.
+* [MMO Server Status](http://www.mmoserverstatus.com/pokemon_go) - MMO server status for PokemonGO.
 
 #### Development Resources
 
 * [pokemongodev](https://www.reddit.com/r/pokemongodev) - Unofficial PokemonGO development sub-reddit.
 * [POGOProtos](https://github.com/AeonLucid/POGOProtos) - A central repository for all proto files of PokemonGO.
 * [PokemonGoDecoderForBurp](https://github.com/pokeolaf/PokemonGoDecoderForBurp) - A simpe decoder for requests/responses made by PokemonGo in burp.
+* [pokemon-go-mitm-node](https://github.com/rastapasta/pokemon-go-mitm-node) - PokemonGO MITM Proxy - Intercepts the traffic between your PokemonGO App and Niantic's servers.
 * [Unbundling Pokemon Go](https://applidium.com/en/news/unbundling_pokemon_go/) - Reverse engineering article about PokemonGO.
 
 #### Libraries
