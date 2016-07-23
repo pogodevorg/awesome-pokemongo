@@ -1,6 +1,6 @@
 # Awesome PokemonGo [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome PokemonGO frameworks, libraries, software, resources and links.
+A list of awesome PokemonGO frameworks, libraries, software, resources and links.
 
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
@@ -104,6 +104,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [Is Pokemon Go Available Yet](https://www.ispokemongoavailableyet.com) - Get notified when PokemonGO is available in your country.
 * [MMO Server Status](http://www.mmoserverstatus.com/pokemon_go) - MMO server status for PokemonGO.
 * [PokeDates](https://www.projectfixup.com/pokedates) - The first-ever Pokemon Go dating service.
+* [Pokemon Go Server status](https://pokemongostatus.org) - Pokemon Go server status updated every minute.
 
 #### Development Resources
 
