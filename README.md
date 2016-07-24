@@ -151,6 +151,10 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [POGOLib](https://github.com/AeonLucid/POGOLib) - A community driven PokemonGO API Library written in C#.
 * [PokemonGoApi](https://github.com/ernilos/PokemonGoApi) - API coded in .NET in order to interact with PokemonGO servers.
 
+##### Go
+
+* [pogo](https://github.com/zeeraw/pogo) – Pokémon Go API tools written in Golang
+
 ##### Java
 
 * [PokeGOAPI-Java](https://github.com/Grover-c13/PokeGOAPI-Java) - PokemonGO API client.
