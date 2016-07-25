@@ -189,6 +189,7 @@ A list of awesome PokemonGO frameworks, libraries, software, resources and links
 
 ##### Node
 
+* [pogobuf](https://github.com/cyraxx/pogobuf) - pogobuf, a Pokémon Go Client Library for node.js.
 * [pokego-scan](https://github.com/dgoguerra/pokego-scan) - Scan pokemon through PokeVision's API with node.
 * [Pokemon-GO-node-api](https://github.com/Armax/Pokemon-GO-node-api) - PokemonGO api node.js library.
 
