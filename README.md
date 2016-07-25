@@ -108,7 +108,7 @@ A list of awesome PokemonGO frameworks, libraries, software, resources and links
 
 ##### Desktop
 
-* [PokemonGo-DesktopMap](https://github.com/omkarmoghe/Pokemap) - Electron app around PokemonGo-Map.
+* [PokemonGo-DesktopMap](https://github.com/mchristopher/PokemonGo-DesktopMap) - Electron app around PokemonGo-Map.
 
 ##### iPhone
 
