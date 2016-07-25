@@ -78,7 +78,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [Exact CP Formula] (https://www.reddit.com/r/pokemongodev/comments/4t7xb4/exact_cp_formula_from_stats_and_cpm_and_an_update/) - Formula to determine CP 
 * [CP per Power Up] (https://i.imgur.com/uoIJjdz.png) - Chart listing the CP per power up
 * [Guide to figuring out Pokémon level from CP/HP] (https://www.reddit.com/r/pokemongodev/comments/4takbp/guide_to_figuring_out_your_pokemons_level_from_cp/) - guide to figuring out Pokémon level 
-* [How HP/Stamina is Calculated] (https://www.reddit.com/r/pokemongodev/comments/4t0xd1/how_hpmaxstamina_is_calculated/) 
+* [How HP/Stamina is Calculated] (https://www.reddit.com/r/pokemongodev/comments/4t0xd1/how_hpmaxstamina_is_calculated/) - How to calculate HP/Stamina
 * [Automatic IV Calculator] (https://docs.google.com/spreadsheets/d/1wbtIc33K45iU1ScUnkB0PlslJ-eLaJlSZY47sPME2Uk/copy) - Google spreadsheet to calculate IVs 
 
 
@@ -156,6 +156,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [PokemonGoDecoderForBurp](https://github.com/pokeolaf/PokemonGoDecoderForBurp) - [CODE] A simpe decoder for requests/responses made by PokemonGo in burp.
 * [pokemon-go-mitm-node](https://github.com/rastapasta/pokemon-go-mitm-node) - [CODE] PokemonGO MITM Proxy - Intercepts the traffic between your PokemonGO App and Niantic's servers.
 * [MITMDump Decoder] (https://github.com/bettse/mitmdump_decoder) - Helper script to decode protobuf serialized requests and responses
+* [PoGo Proxy .NET] (https://github.com/cstrachan88/PoGo-Proxy.NET) - A .NET MITM proxy for PokemonGo. Use to log all incoming and outgoing requests to the PokemonGo API servers.
 * [Pokemon Go IV Miner](http://www.pokemongonexus.com) - [WEBSITE] An easy way to see all of your pokemons' IVs!
 * [pogo-optimizer](https://github.com/justinleewells/pogo-optimizer) - [CODE] MITM data analysis utility for PokemonGO.
 * [porygon](https://github.com/numinit/porygon) - [CODE] The unofficial PokemonGO Plus SDK https://numin.it.
