@@ -69,6 +69,12 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [PokemonGO Wiki](https://pkmngowiki.com/wiki/Main_Page) - PokemonGO Wiki.
 * [Pokemon GO Wiki Guide](http://uk.ign.com/wikis/pokemon-go) - PokemonGO Wiki Guide.
 * [Weakness Chart](https://i.redd.it/oy7lrixl8r9x.png) - Calculated weakness types for different Pokemon types.
+* [Best Movesets] (https://www.reddit.com/r/TheSilphRoad/comments/4teoe2/best_move_sets_and_matchups_v2/) - List of best movesets by Pokémon
+* [Evolution CP Calculator](http://pogotoolkit.com/) - Calculates expected CP from evolution 
+* [Max CP Chart] (http://pokemongo.gamepress.gg/pokemon-list) - Max possible CP for every Pokémon
+* [CP per Power Up] (https://i.imgur.com/uoIJjdz.png) - Chart listing the CP per power up
+* [Automatic IV Calculator] (https://docs.google.com/spreadsheets/d/1wbtIc33K45iU1ScUnkB0PlslJ-eLaJlSZY47sPME2Uk/copy) - Google spreadsheet to calculate IVs 
+
 
 #### Social
 
@@ -119,6 +125,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 #### Bots
 
 * [PokeMate](https://github.com/SwipeX/PokeMate) - Automated PokemonGO Application.
+* [Pokémon Go Bot](https://github.com/TomTheBotter/Pokemon-Go-Bot-Working-Hack-API) - Fast and effective bot in python
 * [Pokemon-Go-Automation](https://github.com/eggins/Pokemon-Go-Automation) - A PokemonGO Bot.
 * [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) - A python script for catching pokemons and spinning pokestops on PokemonGO.
 * [PokemonGoBot](https://github.com/jabbink/PokemonGoBot) - Bot that plays PokemonGO.
@@ -143,6 +150,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [pogo-optimizer](https://github.com/justinleewells/pogo-optimizer) - [CODE] MITM data analysis utility for PokemonGO.
 * [porygon](https://github.com/numinit/porygon) - [CODE] The unofficial PokemonGO Plus SDK https://numin.it.
 * [Unbundling Pokemon Go](https://applidium.com/en/news/unbundling_pokemon_go/) - [ARTICLE] Reverse engineering article about PokemonGO.
+* [Guide to Pokémon Go Server Responses] (https://www.reddit.com/r/pokemongodev/comments/4svl1o/guide_to_pokemon_go_server_responses/) - [GUIDE] Guide to understanding Pokémon Go Server responses
+
 
 #### API Libraries
 
