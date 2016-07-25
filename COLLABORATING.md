@@ -1,8 +1,8 @@
 # Collaboration Guidelines
-As a collaborator you are representing the Awesome PokemonGo project to the community. Please adhere to the following guidelines to give everyone the best experience possible:
+As a collaborator you are representing the Awesome PokemonGO project to the community. Please adhere to the following guidelines to give everyone the best experience possible:
 
 ## Etiquette
-Please adhere to the [CODE-OF-CONDUCT](https://github.com/keyphact/awesome-pokemongo/blob/master/CODE-OF-CONDUCT.md) when reviewing suggestions and participating in discussions on the project's Github account.
+Please adhere to the [CODE-OF-CONDUCT](https://github.com/pkmngo-odi/awesome-pokemongo/blob/master/CODE-OF-CONDUCT.md) when reviewing suggestions and participating in discussions on the project's Github account.
 
 Always be polite and thank people, even if you don’t accept their suggestions.
 
@@ -15,12 +15,12 @@ Please work through the following checklist when reviewing a project:
 
 - Tag pull requests with the most relevant label(s).
 - Validate URLs work correctly and don't point to anything malicious.
-- Ensure suggestions adhere to [CONTRIBUTING](https://github.com/keyphact/awesome-pokemongo/blob/master/CONTRIBUTING.md).
+- Ensure suggestions adhere to [CONTRIBUTING](https://github.com/pkmngo-odi/awesome-pokemongo/blob/master/CONTRIBUTING.md).
 
 ## Enhancements
 If you have an idea on how to improve the project, please open a ticket for discussion using the `Enhancement` label. Please don’t make any broad or sweeping changes without consulting other collaborators first and reaching a consensus.
 
 ## Join
-If you want to help out please send an email to my moon [at] keyphact [dot] net with the subject “Awesome PokemonGo Collaborator and a link to your Github account and I’ll get back to you as soon as I can (I'm notoriously slow, sorry).
+If you want to help out please send an email to us at code [at] keyphact [dot] net with the subject “Awesome PokemonGO Collaborator" and a link to your Github account and we’ll get back to you as soon as I can (we can be notoriously slow, sorry).
 
-Thank you for taking the time to help out with Awesome PokemonGo, your help is appreciated!
+Thank you for taking the time to help out with Awesome PokemonGO, your help is appreciated!

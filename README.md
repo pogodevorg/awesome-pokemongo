@@ -6,6 +6,7 @@ A list of awesome PokemonGO frameworks, libraries, software, resources and links
 
 * [KeyPhact](https://github.com/keyphact)
 * [leveled](https://github.com/leveled)
+* and the [PokemonGo - Open Data Initiatve Team](https://github.com/pkmngo-odi)
 
 ## Table of Contents
 
