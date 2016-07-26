@@ -147,6 +147,7 @@ A list of awesome PokemonGO frameworks, libraries, software, resources and links
 * [Pokemon-Go-Automation](https://github.com/eggins/Pokemon-Go-Automation) - A PokemonGO Bot.
 * [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) - A python script for catching pokemons and spinning pokestops on PokemonGO.
 * [PokemonGoBot](https://github.com/jabbink/PokemonGoBot) - Bot that plays PokemonGO.
+* [Poketrainer](https://github.com/j-e-k/poketrainer) - A fast and feature filled bot in python.
 
 #### Controllers
 
