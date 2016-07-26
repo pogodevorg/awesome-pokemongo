@@ -53,7 +53,12 @@ A list of awesome PokemonGO frameworks, libraries, software, resources and links
 * [Niantic](https://nianticlabs.com/) - Official developer website.
 * [NianticLabs](https://twitter.com/NianticLabs) - Official developer twitter.
 * [Pokemon Go](http://www.pokemongo.com/) - Official PokemonGO website.
-* [PokemonGoApp](https://twitter.com/PokemonGoApp) - Official PokemonGO twitter.
+* [Official site of Pokemon](http://www.pokemon.com/)
+* [Pokemon Go in Niantic labs](http://pokemongo.nianticlabs.com/)
+* [PokemonGoApp](https://twitter.com/PokemonGoApp) - Official PokemonGO Twitter.
+* [PokemonGo](https://facebook.com/PokemonGO/) - Official PokemonGO Facebook.
+* [Pokemon Go App in Google Play](https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo)
+* [Pokemon Go in iTunes store](https://itunes.apple.com/us/app/pokemon-go/id1094591345?mt=8)
 
 ### Official Hardware
 
@@ -179,6 +184,7 @@ A list of awesome PokemonGO frameworks, libraries, software, resources and links
 
 * [POGOLib](https://github.com/AeonLucid/POGOLib) - A community driven PokemonGO API Library written in C#.
 * [PokemonGoApi](https://github.com/ernilos/PokemonGoApi) - API coded in .NET in order to interact with PokemonGO servers.
+* [Pokemon-Go-Rocket-API](https://github.com/FeroxRev/Pokemon-Go-Rocket-API) - Client API Library in C#.
 
 ##### Go
 
