@@ -184,6 +184,7 @@ A list of awesome PokemonGO frameworks, libraries, software, resources and links
 
 * [POGOLib](https://github.com/AeonLucid/POGOLib) - A community driven PokemonGO API Library written in C#.
 * [PokemonGoApi](https://github.com/ernilos/PokemonGoApi) - API coded in .NET in order to interact with PokemonGO servers.
+* [Pokemon-Go-Rocket-API](https://github.com/FeroxRev/Pokemon-Go-Rocket-API) - Client API Library in C#.
 
 ##### Go
 
