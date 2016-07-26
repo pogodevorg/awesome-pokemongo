@@ -53,7 +53,12 @@ A list of awesome PokemonGO frameworks, libraries, software, resources and links
 * [Niantic](https://nianticlabs.com/) - Official developer website.
 * [NianticLabs](https://twitter.com/NianticLabs) - Official developer twitter.
 * [Pokemon Go](http://www.pokemongo.com/) - Official PokemonGO website.
-* [PokemonGoApp](https://twitter.com/PokemonGoApp) - Official PokemonGO twitter.
+* [Official site of Pokemon](http://www.pokemon.com/)
+* [Pokemon Go in Niantic labs](http://pokemongo.nianticlabs.com/)
+* [PokemonGoApp](https://twitter.com/PokemonGoApp) - Official PokemonGO Twitter.
+* [PokemonGo](https://facebook.com/PokemonGO/) - Official PokemonGO Facebook.
+* [Pokemon Go App in Google Play](https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo)
+* [Pokemon Go in iTunes store](https://itunes.apple.com/us/app/pokemon-go/id1094591345?mt=8)
 
 ### Official Hardware
 
