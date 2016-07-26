@@ -156,6 +156,8 @@ A list of awesome PokemonGO frameworks, libraries, software, resources and links
 ##### Mappers
 
 * [pkmngo-map](https://github.com/TheZ3ro/pkmngo-map) - PokemonGO mapping tool in python.
+* [pokeminer] (https://www.reddit.com/r/pokemongodev/comments/4tz66s/pokeminer_your_individual_pokemon_locations/) - python tool to collect Pokémon locations in a wide area, stores for futher analysis
+* [node-pokemap] (https://github.com/Daplie/node-pokemap) - node.js port of PokémonGo-Map 
 * [PokeLocator](https://github.com/emeth-/pokelocater) - Display pokemon nearby to your location on a map.
 * [Pokemon Go Map For Telegram](https://github.com/robbcocco/PokemonGo-Map-forTelegram) - Live visualization of Pokemon in an area using Telegram bot.
 * [Pokemon Go Notification System](https://github.com/jxmorris12/PokemonGo-Finder) - A fork of the PokemonGo-Map repository with the purpose of allowing users to search for specific Pokemon.
@@ -176,7 +178,9 @@ A list of awesome PokemonGO frameworks, libraries, software, resources and links
 #### Other
 
 * [iOS GPS Spoofer](https://github.com/iam4x/pokemongo-webspoof) - [CODE] Spoofs gps locations on iOS devices.
+* [Pokémon No Go] (https://www.reddit.com/r/pokemongodev/comments/4tnvz2/pokemon_nogo_project/) 
 * [Pokemon Go Plus](https://github.com/rubenvereecken/PokemonGo-Enhanced) - [CODE] An ambitious project aiming to enhance several features of PokemonGO.
+* [Pokémanager] (https://github.com/cglatot/PokeManager) [CODE] - python bot which enables managing and transfering of Pokémon
 
 #### API Libraries
 
