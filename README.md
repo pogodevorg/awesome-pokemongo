@@ -112,7 +112,7 @@ A list of awesome PokemonGO frameworks, libraries, software, resources and links
 * [Pokemap](https://github.com/BrianEstrada/PokeScanner) - A native Android client to map the Pokemon around you.
 * [PokeScanner](https://github.com/omkarmoghe/Pokemap) - A scanning tool for PokemonGO for Android.
 * [PokiiMap by KiiDev](https://github.com/kiideveloper/pokiimap) - Another PokemonGO Android app for sanning pokemons at any locations.
-
+* [pokeRadar by benjy3gg](https://play.google.com/store/apps/details?id=com.benjy3gg.pokeradar) - Android Pokemon Scanner, sets your location based on your position and displays the Map in a Overlay that can be shown above other apps.
 ##### Desktop
 
 * [PokemonGo-DesktopMap](https://github.com/mchristopher/PokemonGo-DesktopMap) - Electron app around PokemonGo-Map.
