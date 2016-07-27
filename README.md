@@ -166,6 +166,8 @@ A list of awesome PokemonGO frameworks, libraries, software, resources and links
 * [Pokemon Go Notification System](https://github.com/jxmorris12/PokemonGo-Finder) - A fork of the PokemonGo-Map repository with the purpose of allowing users to search for specific Pokemon.
 * [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - Live visualization of all the pokemon in your area... and more!
 * [pokelyzer](https://github.com/Brideau/pokelyzer) - A data model for doing geospatial analysis and analytics on Pokémon Go Map data
+* [spawn scan] (https://github.com/TBTerra/spawnScan) - Mapper of all spawn points in an area
+* [spawn tracker] (https://github.com/TBTerra/spawnTracker) - Efficient mapper using spawn points and times 
 
 ##### Reverse Engineering
 
