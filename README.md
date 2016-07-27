@@ -13,12 +13,14 @@ A list of awesome PokemonGO frameworks, libraries, software, resources and links
 - [Awesome PokemonGO](#awesome-pokemongo)
   - [Official Links](#official-links)
     - [Official Hardware](#official-hardware)
+    - [Official Software](#official-software)
+      - [Official Applications](#official-applications)
   - [Unofficial Links](#unofficial-links)
     - [Community](#community)
       - [Blogs](#blogs)
       - [Fansites](#fansites)
-      - [Social](#social)
       - [Resources](#resources)
+      - [Social](#social)
       - [Tutorials](#tutorials)
     - [Unofficial Hardware](#unofficial-hardware)
     - [Unofficial Software](#unofficial-software)
@@ -30,9 +32,9 @@ A list of awesome PokemonGO frameworks, libraries, software, resources and links
           - [Misc](#misc)
       - [Development Resources](#development-resources)
         - [Bots](#bots)
+        - [Game Resources](#game-resources)
         - [Mappers](#mappers)
         - [Reverse Engineering](#reverse-engineering)
-        - [Game Resources](#game-resources)
         - [Other](#other)
       - [API Libraries](#api-libraries)
         - [C-Sharp](#c-sharp)
@@ -53,17 +55,20 @@ A list of awesome PokemonGO frameworks, libraries, software, resources and links
 
 * [Niantic](https://nianticlabs.com/) - Official developer website.
 * [NianticLabs](https://twitter.com/NianticLabs) - Official developer twitter.
-* [Pokemon Go](http://www.pokemongo.com/) - Official PokemonGO website.
-* [Official site of Pokemon](http://www.pokemon.com/)
-* [Pokemon Go in Niantic labs](http://pokemongo.nianticlabs.com/)
-* [PokemonGoApp](https://twitter.com/PokemonGoApp) - Official PokemonGO Twitter.
+* [PokemonGo](http://www.pokemongo.com/) - Official PokemonGO website.
 * [PokemonGo](https://facebook.com/PokemonGO/) - Official PokemonGO Facebook.
-* [Pokemon Go App in Google Play](https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo)
-* [Pokemon Go in iTunes store](https://itunes.apple.com/us/app/pokemon-go/id1094591345?mt=8)
+* [PokemonGoApp](https://twitter.com/PokemonGoApp) - Official PokemonGO Twitter.
 
 ### Official Hardware
 
 * [Pokemon Go Plus](http://www.pokemongo.com/pokemon-go-plus/) - A small bluetooth device to alert you of nearby Pokemon.
+
+### Official Sofware
+
+#### Official Applications
+
+* [PokemonGO - Android](https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo) - Official PokemonGO Android application.
+* [PokemonGO - iOS](https://itunes.apple.com/us/app/pokemon-go/id1094591345?mt=8) - Official PokemonGO iOS application.
 
 ## Unofficial Links
 
@@ -75,7 +80,7 @@ A list of awesome PokemonGO frameworks, libraries, software, resources and links
 
 #### Fansites
 
-* [Pokemon Go Database](http://pokemongo.gamepress.gg/) - PokemonGO Database, Guides, Forums and Tutorials.
+* [PokemonGO Database](http://pokemongo.gamepress.gg/) - PokemonGO Database, Guides, Forums and Tutorials.
 
 #### Resources
 
@@ -153,21 +158,21 @@ A list of awesome PokemonGO frameworks, libraries, software, resources and links
 
 #### Controllers
 
-* [Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller) - Play pokemon go safely or at unavailable area.
-* [PokemonGoControllerSuite](https://github.com/adin283/PokemonGoControllerSuite) - HTML web application to control pokemon go.
+* [Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller) - Play PokemonGO safely or at unavailable area.
+* [PokemonGoControllerSuite](https://github.com/adin283/PokemonGoControllerSuite) - HTML web application to control PokemonGO.
 
 ##### Mappers
 
+* [node-pokemap](https://github.com/Daplie/node-pokemap) - node.js port of PokemonGO-Map.
 * [pkmngo-map](https://github.com/TheZ3ro/pkmngo-map) - PokemonGO mapping tool in python.
-* [pokeminer] (https://www.reddit.com/r/pokemongodev/comments/4tz66s/pokeminer_your_individual_pokemon_locations/) - python tool to collect Pokémon locations in a wide area, stores for futher analysis
-* [node-pokemap] (https://github.com/Daplie/node-pokemap) - node.js port of PokémonGo-Map 
 * [PokeLocator](https://github.com/emeth-/pokelocater) - Display pokemon nearby to your location on a map.
+* [pokelyzer](https://github.com/Brideau/pokelyzer) - A data model for doing geospatial analysis and analytics on PokemonGO Map data
+* [pokeminer](https://www.reddit.com/r/pokemongodev/comments/4tz66s/pokeminer_your_individual_pokemon_locations/) - Python tool to collect PokemonGO locations in a wide area.
 * [Pokemon Go Map For Telegram](https://github.com/robbcocco/PokemonGo-Map-forTelegram) - Live visualization of Pokemon in an area using Telegram bot.
-* [Pokemon Go Notification System](https://github.com/jxmorris12/PokemonGo-Finder) - A fork of the PokemonGo-Map repository with the purpose of allowing users to search for specific Pokemon.
-* [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - Live visualization of all the pokemon in your area... and more!
-* [pokelyzer](https://github.com/Brideau/pokelyzer) - A data model for doing geospatial analysis and analytics on Pokémon Go Map data
-* [spawn scan] (https://github.com/TBTerra/spawnScan) - Mapper of all spawn points in an area
-* [spawn tracker] (https://github.com/TBTerra/spawnTracker) - Efficient mapper using spawn points and times 
+* [Pokemon Go Notification System](https://github.com/jxmorris12/PokemonGo-Finder) - A fork of the PokemonGo-Map repository, allowing users to search for specific Pokemon.
+* [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - Live visualization of all the pokemon in your area!
+* [spawnScan](https://github.com/TBTerra/spawnScan) - Mapper of all spawn points in an area.
+* [spawnTracker](https://github.com/TBTerra/spawnTracker) - Efficient mapper using spawn points and times.
 
 ##### Reverse Engineering
 
@@ -181,16 +186,17 @@ A list of awesome PokemonGO frameworks, libraries, software, resources and links
 * [Unbundling Pokemon Go](https://applidium.com/en/news/unbundling_pokemon_go/) - [ARTICLE] Reverse engineering article about PokemonGO.
 
 #### Game Resources
+
 * [POGOProtos](https://github.com/AeonLucid/POGOProtos) - [CODE] A central repository for all protobuf files of PokemonGO.
-* [Pokémon SVGs] (https://github.com/jnovack/pokemon-svg) - [CODE] SVG files for Pokémon game images
+* [Pokemon SVGs](https://github.com/jnovack/pokemon-svg) - [CODE] SVG files for Pokemon game images.
 
 
 #### Other
 
 * [iOS GPS Spoofer](https://github.com/iam4x/pokemongo-webspoof) - [CODE] Spoofs gps locations on iOS devices.
-* [Pokémon No Go] (https://www.reddit.com/r/pokemongodev/comments/4tnvz2/pokemon_nogo_project/) 
+* [Pokemon No Go](https://www.reddit.com/r/pokemongodev/comments/4tnvz2/pokemon_nogo_project/) - [CODE] Play PokemonGO on a PC.
 * [Pokemon Go Plus](https://github.com/rubenvereecken/PokemonGo-Enhanced) - [CODE] An ambitious project aiming to enhance several features of PokemonGO.
-* [Pokémanager] (https://github.com/cglatot/PokeManager) [CODE] - python bot which enables managing and transfering of Pokémon
+* [Pokemanager](https://github.com/cglatot/PokeManager) [CODE] - python bot which enables managing and transfering of Pokemon.
 
 
 #### API Libraries
@@ -211,7 +217,7 @@ A list of awesome PokemonGO frameworks, libraries, software, resources and links
 
 ##### Node
 
-* [pogobuf](https://github.com/cyraxx/pogobuf) - pogobuf, a Pokémon Go Client Library for node.js.
+* [pogobuf](https://github.com/cyraxx/pogobuf) - a PokemonGO Client Library for node.js.
 * [pokego-scan](https://github.com/dgoguerra/pokego-scan) - Scan pokemon through PokeVision's API with node.
 * [Pokemon-GO-node-api](https://github.com/Armax/Pokemon-GO-node-api) - PokemonGO api node.js library.
 
