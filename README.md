@@ -32,6 +32,7 @@ A list of awesome PokemonGO frameworks, libraries, software, resources and links
         - [Bots](#bots)
         - [Mappers](#mappers)
         - [Reverse Engineering](#reverse-engineering)
+        - [Game Resources](#game-resources)
         - [Other](#other)
       - [API Libraries](#api-libraries)
         - [C-Sharp](#c-sharp)
@@ -109,8 +110,8 @@ A list of awesome PokemonGO frameworks, libraries, software, resources and links
 
 ##### Android
 
-* [Pokemap](https://github.com/BrianEstrada/PokeScanner) - A native Android client to map the Pokemon around you.
-* [PokeScanner](https://github.com/omkarmoghe/Pokemap) - A scanning tool for PokemonGO for Android.
+* [Pokemap](https://github.com/omkarmoghe/Pokemap) - A native Android client to map the Pokemon around you.
+* [PokeScanner](https://github.com/BrianEstrada/PokeScanner) - A scanning tool for PokemonGO for Android.
 * [PokiiMap by KiiDev](https://github.com/kiideveloper/pokiimap) - Another PokemonGO Android app for sanning pokemons at any locations.
 
 ##### Desktop
@@ -164,18 +165,23 @@ A list of awesome PokemonGO frameworks, libraries, software, resources and links
 * [Pokemon Go Map For Telegram](https://github.com/robbcocco/PokemonGo-Map-forTelegram) - Live visualization of Pokemon in an area using Telegram bot.
 * [Pokemon Go Notification System](https://github.com/jxmorris12/PokemonGo-Finder) - A fork of the PokemonGo-Map repository with the purpose of allowing users to search for specific Pokemon.
 * [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - Live visualization of all the pokemon in your area... and more!
+* [pokelyzer](https://github.com/Brideau/pokelyzer) - A data model for doing geospatial analysis and analytics on Pokémon Go Map data
 
 ##### Reverse Engineering
 
 * [Guide to Pokemon Go Server Responses](https://www.reddit.com/r/pokemongodev/comments/4svl1o/guide_to_pokemon_go_server_responses/) - [GUIDE] Guide to understanding PokemonGO Server responses.
 * [MITMDump Decoder](https://github.com/bettse/mitmdump_decoder) - [CODE] Helper script to decode protobuf serialized requests and responses.
 * [pogo-optimizer](https://github.com/justinleewells/pogo-optimizer) - [CODE] MITM data analysis utility for PokemonGO.
-* [POGOProtos](https://github.com/AeonLucid/POGOProtos) - [CODE] A central repository for all protobuf files of PokemonGO.
 * [Pokemon Go IV Miner](http://www.pokemongonexus.com) - [WEBSITE] An easy way to see all of your pokemons' IVs!
 * [pokemon-go-mitm-node](https://github.com/rastapasta/pokemon-go-mitm-node) - [CODE] Intercepts the traffic between your PokemonGO App and Niantic's servers.
 * [PokemonGoDecoderForBurp](https://github.com/pokeolaf/PokemonGoDecoderForBurp) - [CODE] A simpe decoder for requests/responses made by PokemonGO in burp.
 * [porygon](https://github.com/numinit/porygon) - [CODE] The unofficial PokemonGO Plus SDK.
 * [Unbundling Pokemon Go](https://applidium.com/en/news/unbundling_pokemon_go/) - [ARTICLE] Reverse engineering article about PokemonGO.
+
+#### Game Resources
+* [POGOProtos](https://github.com/AeonLucid/POGOProtos) - [CODE] A central repository for all protobuf files of PokemonGO.
+* [Pokémon SVGs] (https://github.com/jnovack/pokemon-svg) - [CODE] SVG files for Pokémon game images
+
 
 #### Other
 
@@ -183,6 +189,7 @@ A list of awesome PokemonGO frameworks, libraries, software, resources and links
 * [Pokémon No Go] (https://www.reddit.com/r/pokemongodev/comments/4tnvz2/pokemon_nogo_project/) 
 * [Pokemon Go Plus](https://github.com/rubenvereecken/PokemonGo-Enhanced) - [CODE] An ambitious project aiming to enhance several features of PokemonGO.
 * [Pokémanager] (https://github.com/cglatot/PokeManager) [CODE] - python bot which enables managing and transfering of Pokémon
+
 
 #### API Libraries
 
