@@ -170,6 +170,7 @@ A list of awesome PokemonGO frameworks, libraries, software, resources and links
 * [pokeminer](https://www.reddit.com/r/pokemongodev/comments/4tz66s/pokeminer_your_individual_pokemon_locations/) - Python tool to collect PokemonGO locations in a wide area.
 * [Pokemon Go Map For Telegram](https://github.com/robbcocco/PokemonGo-Map-forTelegram) - Live visualization of Pokemon in an area using Telegram bot.
 * [Pokemon Go Notification System](https://github.com/jxmorris12/PokemonGo-Finder) - A fork of the PokemonGo-Map repository, allowing users to search for specific Pokemon.
+* [Pokemon Go Whatsapp Notifier](https://github.com/akleemans/pokenotifier-whatsapp) - A Pokemon Go Whatsapp notifier for specific pokemon, based on PokemonGo-Map.
 * [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - Live visualization of all the pokemon in your area!
 * [spawnScan](https://github.com/TBTerra/spawnScan) - Mapper of all spawn points in an area.
 * [spawnTracker](https://github.com/TBTerra/spawnTracker) - Efficient mapper using spawn points and times.
