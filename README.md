@@ -81,6 +81,7 @@ A list of awesome PokemonGO frameworks, libraries, software, resources and links
 #### Fansites
 
 * [PokemonGO Database](http://pokemongo.gamepress.gg/) - PokemonGO Database, Guides, Forums and Tutorials.
+* [PGO Pokédex] (http://pgopokedex.com/) - Database of Pokémon, stats, etc. 
 
 #### Resources
 
@@ -135,6 +136,7 @@ A list of awesome PokemonGO frameworks, libraries, software, resources and links
 * [Pokecrew](https://www.pokecrew.com/) - Find, report, and share local Pokemon sightings.
 * [pokegoworld](https://www.pokegoworld.com) - A crowd-sourced, self-cleaning worldwide map of Pokemon, PokeStops, and Gyms for PokemonGO.
 * [PokeMapper](https://pokemapper.co) - The world-wide PokemonGO map.
+* [Pokémark] (https://pokemark.com/) - Map of Pokémon, Gyms Pokéstops
 * [Pokerev](http://pokerev.r3v3rs3.net/mapui/#1/-0/0) - Gym, pokestops and pokemon.
 * [Pokevision](https://pokevision.com/) - Real-Time PokemonGO Map.
 * [Skiplagged](https://skiplagged.com/pokemon) - Live Pokemon on a map.
@@ -150,6 +152,7 @@ A list of awesome PokemonGO frameworks, libraries, software, resources and links
 
 #### Bots
 
+* [Necrobot] (https://github.com/NecronomiconCoding/NecroBot) - An efficient bot coded in C
 * [PokeMate](https://github.com/SwipeX/PokeMate) - Automated PokemonGO Application.
 * [Pokemon Go Bot](https://github.com/TomTheBotter/Pokemon-Go-Bot-Working-Hack-API) - Fast and effective bot in python
 * [Pokemon Go Tweets](https://github.com/vutran/pokemon-go-tweets) - Watches geolocated tweets and replies with information on surrounding Pokemon's whereabouts
@@ -165,7 +168,9 @@ A list of awesome PokemonGO frameworks, libraries, software, resources and links
 
 ##### Mappers
 
+* [cljpokego](https://github.com/kvey/cljpokego) - Clojure webserver/API for pulling and mapping Pokémon Go information
 * [node-pokemap](https://github.com/Daplie/node-pokemap) - node.js port of PokemonGO-Map.
+* [PGO-mapscan-opt] (https://github.com/seikur0/PGO-mapscan-opt) - efficient Pokémon scanning tool
 * [pkmngo-map](https://github.com/TheZ3ro/pkmngo-map) - PokemonGO mapping tool in python.
 * [PokeLocator](https://github.com/emeth-/pokelocater) - Display pokemon nearby to your location on a map.
 * [pokelyzer](https://github.com/Brideau/pokelyzer) - A data model for doing geospatial analysis and analytics on PokemonGO Map data
@@ -191,6 +196,7 @@ A list of awesome PokemonGO frameworks, libraries, software, resources and links
 #### Game Resources
 
 * [POGOProtos](https://github.com/AeonLucid/POGOProtos) - [CODE] A central repository for all protobuf files of PokemonGO.
+* [Pokémon Go Assets and Images](https://github.com/Superviral/Pokemon-GO-App-Assets-and-Images) - [CODE] Decompiled unity assets for Pokémon Go 
 * [Pokemon SVGs](https://github.com/jnovack/pokemon-svg) - [CODE] SVG files for Pokemon game images.
 
 
