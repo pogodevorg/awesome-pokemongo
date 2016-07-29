@@ -202,6 +202,7 @@ A list of awesome PokemonGO frameworks, libraries, software, resources and links
 * [POGOProtos](https://github.com/AeonLucid/POGOProtos) - [CODE] A central repository for all protobuf files of PokemonGO.
 * [Pokémon Go Assets and Images](https://github.com/Superviral/Pokemon-GO-App-Assets-and-Images) - [CODE] Decompiled unity assets for Pokémon Go
 * [Pokemon SVGs](https://github.com/jnovack/pokemon-svg) - [CODE] SVG files for Pokemon game images.
+* [PoGO-Awesome](https://github.com/DavydeVries/PoGO-Awesome) - [CSS] Resource that easily can be used in websites. 
 
 #### Other
 
