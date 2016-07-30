@@ -164,6 +164,8 @@ A list of awesome PokemonGO frameworks, libraries, software, resources and links
 
 * [Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller) - Play PokemonGO safely or at unavailable area.
 * [PokemonGoControllerSuite](https://github.com/adin283/PokemonGoControllerSuite) - HTML web application to control PokemonGO.
+* [Pokémon NoGo](https://github.com/RomanTheLegend/Pokemon_NoGo) - Desktop client for playing Pokémon Go on the computer
+
 
 ##### Mappers
 
