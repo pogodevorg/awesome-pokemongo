@@ -1,5 +1,5 @@
 # Collaboration Guidelines
-As a collaborator you are representing the Awesome PokemonGO project to the community. Please adhere to the following guidelines to give everyone the best experience possible:
+As a collaborator you are representing the Awesome-PokemonGO list to the community. Please adhere to the following guidelines to give everyone the best experience possible:
 
 ## Etiquette
 Please adhere to the [CODE-OF-CONDUCT](https://github.com/pkmngo-odi/awesome-pokemongo/blob/master/CODE-OF-CONDUCT.md) when reviewing suggestions and participating in discussions on the project's Github account.
@@ -21,6 +21,6 @@ Please work through the following checklist when reviewing a project:
 If you have an idea on how to improve the project, please open a ticket for discussion using the `Enhancement` label. Please don’t make any broad or sweeping changes without consulting other collaborators first and reaching a consensus.
 
 ## Join
-If you want to help out please send an email to us at code [at] keyphact [dot] net with the subject “Awesome PokemonGO Collaborator" and a link to your Github account and we’ll get back to you as soon as I can (we can be notoriously slow, sorry).
+If you want to help out please join us on Discord [https://discord.gg/FN9gapp](https://discord.gg/FN9gapp) and drop us a message we’ll get back to you as soon as I can (we can be notoriously slow, sorry).
 
-Thank you for taking the time to help out with Awesome PokemonGO, your help is appreciated!
+Thank you for taking the time to help out with the Awesome PokemonGO list, your help is appreciated!
