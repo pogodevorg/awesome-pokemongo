@@ -147,8 +147,8 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 * [Is Pokemon Go Available Yet](https://www.ispokemongoavailableyet.com) - Get notified when PokemonGO is available in your country.
 * [MMO Server Status](http://www.mmoserverstatus.com/pokemon_go) - MMO server status for PokemonGO.
 * [PokeDates](https://www.projectfixup.com/pokedates) - The first-ever Pokemon Go dating service.
-* [Pokemon Go Server status](https://pokemongostatus.org) - Pokemon Go server status updated every minute.
 * [Pokédex Go](https://github.com/zwacky/pokedex-go) - Pokédex as a Facebook Chat Bot for PokemonGO.
+* [Pokemon Go Server status](https://pokemongostatus.org) - Pokemon Go server status updated every minute.
 
 #### Development Resources
 
