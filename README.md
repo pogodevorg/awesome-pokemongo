@@ -99,6 +99,7 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 * [Max CP/HP Chart](https://www.reddit.com/r/pokemongodev/comments/4t7zt4/max_cphp_per_pokemon_in_a_sortable_chart) - Max HP/CP for every Pokemon.
 * [PidgeyCalc](http://pidgeycalc.com) - A calculator for maximising your Lucky Egg XP gains in PokemonGO.
 * [Pokemon CP/HP Ranges](https://docs.google.com/spreadsheets/d/19iql4aABmZ5oZ6YDE3LmZ8qcth3UoH52954WhjuiJow/edit#gid=1488557536) - Possible CP/HP ranges for every Pokemon.
+* [Super Effective](http://supereffective.info/) - Find which types will be most effective against a Pokemon.
 * [Weakness Chart](https://i.redd.it/oy7lrixl8r9x.png) - Calculated weakness types for different Pokemon types.
 
 #### Social
