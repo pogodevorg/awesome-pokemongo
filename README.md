@@ -160,6 +160,7 @@ A list of awesome PokemonGO frameworks, libraries, software, resources and links
 * [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) - A python script for catching pokemons and spinning pokestops on PokemonGO.
 * [PokemonGoBot](https://github.com/jabbink/PokemonGoBot) - Bot that plays PokemonGO.
 * [Poketrainer](https://github.com/j-e-k/poketrainer) - A fast and feature filled bot in python.
+* [PokeGodar](https://github.com/thedarkcode/pokegodar) - Pokemon GO Bot interface via ASP.NET Web API server with Azure support for Search, DocumentDB, and Bot Framework integration. Clients for iOS written in Swift 2.2 / 3. Web Role for geospatial map search.
 
 #### Controllers
 
