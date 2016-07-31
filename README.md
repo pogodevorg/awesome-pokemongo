@@ -141,7 +141,7 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 * [Pokerev](http://pokerev.r3v3rs3.net/mapui/#1/-0/0) - Gym, pokestops and pokemon.
 * [Pokevision](https://pokevision.com) - Real-Time PokemonGO Map.
 * [Skiplagged](https://skiplagged.com/pokemon) - Live Pokemon on a map.
-* [PokeGodar](https://pokegodar.com)- Research Pokemon Go interface using ASP.NET Web API with SignalR, Azure Search, DocumentDB, and Bot Framework integrations. Clients for iOS in Swift 2.2/3.
+* [PokeGodar](https://pokegodar.com - Mapping API run on Azure with Web and Swift 2.2/3 clients.
 
 ##### Misc
 
