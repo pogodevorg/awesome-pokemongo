@@ -57,12 +57,12 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 * [Niantic](https://nianticlabs.com) - Official developer website.
 * [NianticLabs](https://twitter.com/NianticLabs) - Official developer twitter.
 * [PokemonGo](http://www.pokemongo.com) - Official PokemonGO website.
-* [PokemonGo](https://facebook.com/PokemonGO) - Official PokemonGO Facebook.
+* [PokemonGo](https://www.facebook.com/PokemonGO) - Official PokemonGO Facebook.
 * [PokemonGoApp](https://twitter.com/PokemonGoApp) - Official PokemonGO Twitter.
 
 ### Official Hardware
 
-* [Pokemon Go Plus](http://www.pokemongo.com/pokemon-go-plus) - A small bluetooth device to alert you of nearby Pokemon.
+* [Pokemon Go Plus](http://www.pokemongo.com/pokemon-go-plus/) - A small bluetooth device to alert you of nearby Pokemon.
 
 ### Official Sofware
 
@@ -83,7 +83,7 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 
 * [PokemonGO Database](http://pokemongo.gamepress.gg) - PokemonGO Database, Guides, Forums and Tutorials.
 * [PGO Pokedex](http://pgopokedex.com) - Database of Pokémon, stats, etc.
-* [Pokemon GO Wiki Guide](http://uk.ign.com/wikis/pokemon-go) - PokemonGO Wiki Guide.
+* [Pokemon GO Wiki Guide](http://www.ign.com/wikis/pokemon-go) - PokemonGO Wiki Guide.
 * [PokemonGO Wiki](https://pkmngowiki.com/wiki/Main_Page) - PokemonGO Wiki.
 
 #### Resources
@@ -97,9 +97,8 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 * [HP and Stamina Calculation](https://www.reddit.com/r/pokemongodev/comments/4t0xd1/how_hpmaxstamina_is_calculated) - How HP and Max stamina is calculated.
 * [Max CP Chart](http://pokemongo.gamepress.gg/pokemon-list) - Max possible CP for every Pokemon.
 * [Max CP/HP Chart](https://www.reddit.com/r/pokemongodev/comments/4t7zt4/max_cphp_per_pokemon_in_a_sortable_chart) - Max HP/CP for every Pokemon.
-* [PidgeyCalc](http://pidgeycalc.com) - A calculator for maximising your Lucky Egg XP gains in PokemonGO.
+* [PidgeyCalc](http://www.pidgeycalc.com/) - A calculator for maximising your Lucky Egg XP gains in PokemonGO.
 * [Pokemon CP/HP Ranges](https://docs.google.com/spreadsheets/d/19iql4aABmZ5oZ6YDE3LmZ8qcth3UoH52954WhjuiJow/edit#gid=1488557536) - Possible CP/HP ranges for every Pokemon.
-* [Super Effective](http://supereffective.info/) - Find which types will be most effective against a Pokemon.
 * [Weakness Chart](https://i.redd.it/oy7lrixl8r9x.png) - Calculated weakness types for different Pokemon types.
 
 #### Social
@@ -142,14 +141,12 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 * [Pokerev](http://pokerev.r3v3rs3.net/mapui/#1/-0/0) - Gym, pokestops and pokemon.
 * [Pokevision](https://pokevision.com) - Real-Time PokemonGO Map.
 * [Skiplagged](https://skiplagged.com/pokemon) - Live Pokemon on a map.
-* [PokeGodar](https://pokegodar.com - Mapping API run on Azure with Web and Swift 2.2/3 clients.
 
 ##### Misc
 
 * [Is Pokemon Go Available Yet](https://www.ispokemongoavailableyet.com) - Get notified when PokemonGO is available in your country.
 * [MMO Server Status](http://www.mmoserverstatus.com/pokemon_go) - MMO server status for PokemonGO.
-* [PokeDates](https://www.projectfixup.com/pokedates) - The first-ever Pokemon Go dating service.
-* [Pokédex Go](https://github.com/zwacky/pokedex-go) - Pokédex as a Facebook Chat Bot for PokemonGO.
+* [PokeDates](https://www.projectfixup.com/pokedates/) - The first-ever Pokemon Go dating service.
 * [Pokemon Go Server status](https://pokemongostatus.org) - Pokemon Go server status updated every minute.
 
 #### Development Resources
@@ -201,7 +198,7 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 
 * [iOS GPS Spoofer](https://github.com/iam4x/pokemongo-webspoof) - [CODE] Spoofs gps locations on iOS devices.
 * [Pokemon No Go](https://github.com/RomanTheLegend/Pokemon_NoGo) - [CODE] Play PokemonGO on a PC.
-* [Pokemon Go Plus](https://github.com/rubenvereecken/PokemonGo-Enhanced) - [CODE] An ambitious project aiming to enhance several features of PokemonGO.
+* [Pokemon Go Plus](https://github.com/PokemonGo-Enhanced/Enhanced-Backend) - [CODE] An ambitious project aiming to enhance several features of PokemonGO.
 * [Pokemanager](https://github.com/cglatot/PokeManager) [CODE] - python bot which enables managing and transfering of Pokemon.
 
 #### API Libraries
