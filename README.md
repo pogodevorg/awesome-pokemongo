@@ -1,6 +1,7 @@
 # Awesome PokemonGo [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A list of awesome PokemonGO frameworks, libraries, software, resources and links. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
+Please take a moment to read over the [contribution guidelines](https://github.com/pkmngo-odi/awesome-pokemongo/blob/master/CONTRIBUTING.md) before submitting new additions.
 
 ## Core Maintainers
 
@@ -31,7 +32,6 @@ A list of awesome PokemonGO frameworks, libraries, software, resources and links
           - [Mapping](#mapping)
           - [Misc](#misc)
       - [Development Resources](#development-resources)
-        - [Bots](#bots)
         - [Game Resources](#game-resources)
         - [Mappers](#mappers)
         - [Notifiers](#notifiers)
@@ -151,22 +151,10 @@ A list of awesome PokemonGO frameworks, libraries, software, resources and links
 
 #### Development Resources
 
-#### Bots
-
-* [Necrobot](https://github.com/NecronomiconCoding/NecroBot) - An efficient PokemonGO bot coded in C.
-* [PokeMate](https://github.com/SwipeX/PokeMate) - Automated PokemonGO Application.
-* [Pokemon Go Bot](https://github.com/TomTheBotter/Pokemon-Go-Bot-Working-Hack-API) - Fast and effective bot in python
-* [Pokemon-Go-Automation](https://github.com/eggins/Pokemon-Go-Automation) - A PokemonGO Bot.
-* [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) - A python script for catching pokemons and spinning pokestops on PokemonGO.
-* [PokemonGoBot](https://github.com/jabbink/PokemonGoBot) - Bot that plays PokemonGO.
-* [Poketrainer](https://github.com/j-e-k/poketrainer) - A fast and feature filled bot in python.
-
 #### Controllers
 
 * [Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller) - Play PokemonGO safely or at unavailable area.
 * [PokemonGoControllerSuite](https://github.com/adin283/PokemonGoControllerSuite) - HTML web application to control PokemonGO.
-* [Pokémon NoGo](https://github.com/RomanTheLegend/Pokemon_NoGo) - Desktop client for playing Pokémon Go on the computer
-
 
 ##### Mappers
 
@@ -201,6 +189,7 @@ A list of awesome PokemonGO frameworks, libraries, software, resources and links
 
 #### Game Resources
 
+* [PoGO-Awesome](https://github.com/DavydeVries/PoGO-Awesome) - [CSS] Resource that easily can be used in websites.
 * [POGOProtos](https://github.com/AeonLucid/POGOProtos) - [CODE] A central repository for all protobuf files of PokemonGO.
 * [Pokémon Go Assets and Images](https://github.com/Superviral/Pokemon-GO-App-Assets-and-Images) - [CODE] Decompiled unity assets for Pokémon Go
 * [Pokemon SVGs](https://github.com/jnovack/pokemon-svg) - [CODE] SVG files for Pokemon game images.
@@ -208,7 +197,7 @@ A list of awesome PokemonGO frameworks, libraries, software, resources and links
 #### Other
 
 * [iOS GPS Spoofer](https://github.com/iam4x/pokemongo-webspoof) - [CODE] Spoofs gps locations on iOS devices.
-* [Pokemon No Go](https://www.reddit.com/r/pokemongodev/comments/4tnvz2/pokemon_nogo_project) - [CODE] Play PokemonGO on a PC.
+* [Pokemon No Go](https://github.com/RomanTheLegend/Pokemon_NoGo) - [CODE] Play PokemonGO on a PC.
 * [Pokemon Go Plus](https://github.com/rubenvereecken/PokemonGo-Enhanced) - [CODE] An ambitious project aiming to enhance several features of PokemonGO.
 * [Pokemanager](https://github.com/cglatot/PokeManager) [CODE] - python bot which enables managing and transfering of Pokemon.
 
