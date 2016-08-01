@@ -138,6 +138,7 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 * [pokegoworld](https://www.pokegoworld.com) - A crowd-sourced, self-cleaning worldwide map of Pokemon, PokeStops, and Gyms for PokemonGO.
 * [PokeMapper](https://pokemapper.co) - The world-wide PokemonGO map.
 * [Pokemark](https://pokemark.com) - Map of Pokemon, Gyms and Pokestops.
+* [Pokénest Static](http://www.anj.fyi/nest/) - Map to locate nests of various Pokémon 
 * [Pokerev](http://pokerev.r3v3rs3.net/mapui/#1/-0/0) - Gym, pokestops and pokemon.
 * [Pokevision](https://pokevision.com) - Real-Time PokemonGO Map.
 * [Skiplagged](https://skiplagged.com/pokemon) - Live Pokemon on a map.
@@ -181,16 +182,19 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 * [Guide to Pokemon Go Server Responses](https://www.reddit.com/r/pokemongodev/comments/4svl1o/guide_to_pokemon_go_server_responses) - [GUIDE] Guide to understanding PokemonGO Server responses.
 * [MITMDump Decoder](https://github.com/bettse/mitmdump_decoder) - [CODE] Helper script to decode protobuf serialized requests and responses.
 * [pogo-optimizer](https://github.com/justinleewells/pogo-optimizer) - [CODE] MITM data analysis utility for PokemonGO.
+* [PoGo-Proxy.NET] (https://github.com/cstrachan88/PoGo-Proxy.NET) - [CODE] A .NET MiTM proxy to read all messages sent by Pokémon Go devices and Niantic servers
 * [Pokemon Go IV Miner](http://www.pokemongonexus.com) - [WEBSITE] An easy way to see all of your pokemons' IVs!
 * [pokemon-go-mitm-node](https://github.com/rastapasta/pokemon-go-mitm-node) - [CODE] Intercepts the traffic between your PokemonGO App and Niantic's servers.
 * [PokemonGoDecoderForBurp](https://github.com/pokeolaf/PokemonGoDecoderForBurp) - [CODE] A simpe decoder for requests/responses made by PokemonGO in burp.
 * [porygon](https://github.com/numinit/porygon) - [CODE] The unofficial PokemonGO Plus SDK.
 * [Unbundling Pokemon Go](https://applidium.com/en/news/unbundling_pokemon_go) - [ARTICLE] Reverse engineering article about PokemonGO.
+* [Removing Pokémon Go's Certificate Pinning](https://eaton-works.com/2016/07/31/reverse-engineering-and-removing-pokemon-gos-certificate-pinning/) - [ARTICLE] How to monitor network traffic after V .31 
 
 #### Game Resources
 
 * [PoGO-Awesome](https://github.com/DavydeVries/PoGO-Awesome) - [CSS] Resource that easily can be used in websites.
 * [POGOProtos](https://github.com/AeonLucid/POGOProtos) - [CODE] A central repository for all protobuf files of PokemonGO.
+* [Pokémon Go Dumper] (https://github.com/Jumboperson/PokemonGoDumper/tree/master/OldDumps) - [CODE] - C# Class Dumps and more!
 * [Pokémon Go Assets and Images](https://github.com/Superviral/Pokemon-GO-App-Assets-and-Images) - [CODE] Decompiled unity assets for Pokémon Go
 * [Pokemon SVGs](https://github.com/jnovack/pokemon-svg) - [CODE] SVG files for Pokemon game images.
 
