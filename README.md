@@ -119,8 +119,9 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 
 * [Pokemap](https://github.com/omkarmoghe/Pokemap) - A native Android client to map the Pokemon around you.
 * [PokeScanner](https://github.com/BrianEstrada/PokeScanner) - A scanning tool for PokemonGO for Android.
-* [PokiiMap](https://github.com/kiideveloper/pokiimap) - Another PokemonGO Android app for sanning pokemons at any locations.
+* [PokiiMap](https://github.com/kiideveloper/pokiimap) - Another PokemonGO Android app for scanning pokemons at any locations.
 * [pokeRadar](https://play.google.com/store/apps/details?id=com.benjy3gg.pokeradar) - Android Pokemon Scanner for PokemonGO.
+* [PokeSpotter](https://play.google.com/store/apps/details?id=com.randomappsinc.pokelocator) - Native Android app to find Pokemon through crowdsourcing
 
 ##### Desktop
 
