@@ -120,7 +120,6 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 * [Pokemap](https://github.com/omkarmoghe/Pokemap) - A native Android client to map the Pokemon around you.
 * [PokeScanner](https://github.com/BrianEstrada/PokeScanner) - A scanning tool for PokemonGO for Android.
 * [PokiiMap](https://github.com/kiideveloper/pokiimap) - Another PokemonGO Android app for sanning pokemons at any locations.
-* [pokeRadar](https://play.google.com/store/apps/details?id=com.benjy3gg.pokeradar) - Android Pokemon Scanner for PokemonGO.
 
 ##### Desktop
 
@@ -211,6 +210,7 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 
 * [POGOLib](https://github.com/AeonLucid/POGOLib) - A community driven PokemonGO API Library written in C#.
 * [PokemonGoApi](https://github.com/ernilos/PokemonGoApi) - API coded in .NET in order to interact with PokemonGO servers.
+* [Pokeinventory](https://github.com/norecha/PokeInventory) - A tool for mass transfer, management of evolution/candies
 * [Pokemon-Go-Rocket-API](https://github.com/FeroxRev/Pokemon-Go-Rocket-API) - Client API Library in C#.
 
 ##### Go
