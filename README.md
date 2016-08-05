@@ -218,6 +218,10 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 
 * [pogo](https://github.com/pkmngo-odi/pogo) – PokemonGO API tools written in Golang.
 
+##### Haskell
+
+* [pokemon](https://github.com/iphydf/pokemon) - A PokemonGO API library for Haskell.
+
 ##### Java
 
 * [PokeGOAPI-Java](https://github.com/Grover-c13/PokeGOAPI-Java) - PokemonGO API client.
