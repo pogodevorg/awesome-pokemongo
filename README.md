@@ -230,7 +230,6 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 ##### Node
 
 * [pogobuf](https://github.com/cyraxx/pogobuf) - A PokemonGO Client Library for node.js.
-* [pokego-scan](https://github.com/dgoguerra/pokego-scan) - Scan pokemon through PokeVision's API with node.
 * [Pokemon-GO-node-api](https://github.com/Armax/Pokemon-GO-node-api) - PokemonGO api node.js library.
 
 ##### PHP
