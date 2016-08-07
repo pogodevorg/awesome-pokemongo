@@ -83,6 +83,7 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 
 * [PokemonGO Database](http://pokemongo.gamepress.gg) - PokemonGO Database, Guides, Forums and Tutorials.
 * [PGO Pokedex](http://pgopokedex.com) - Database of Pokémon, stats, etc.
+* [PokeAssistant](https://pokeassistant.com/) - One-stop shop to find pokemon IV's, movesets, maximize evolves, etc.
 * [Pokemon GO Wiki Guide](http://www.ign.com/wikis/pokemon-go) - PokemonGO Wiki Guide.
 * [PokemonGO Wiki](https://pkmngowiki.com/wiki/Main_Page) - PokemonGO Wiki.
 * [Pokemon Go Wiki](http://pokemongo.wikia.com/wiki/Pokemon_Go_Wiki) Pokémon Go Wikia.
