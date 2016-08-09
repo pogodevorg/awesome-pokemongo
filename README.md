@@ -87,6 +87,8 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 * [Pokemon GO Wiki Guide](http://www.ign.com/wikis/pokemon-go) - PokemonGO Wiki Guide.
 * [PokemonGO Wiki](https://pkmngowiki.com/wiki/Main_Page) - PokemonGO Wiki.
 * [Pokemon Go Wiki](http://pokemongo.wikia.com/wiki/Pokemon_Go_Wiki) Pokémon Go Wikia.
+* [PokeForums](http://www.pokeforums.com) - PokemonGO Forums, Wiki, Tutorials, Guides and Semi-Social Network.
+
 
 #### Resources
 
