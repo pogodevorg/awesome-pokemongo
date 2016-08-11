@@ -122,7 +122,6 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 ##### Android
 
 * [Pokemap](https://github.com/omkarmoghe/Pokemap) - A native Android client to map the Pokemon around you.
-* [PokeScanner](https://github.com/BrianEstrada/PokeScanner) - A scanning tool for PokemonGO for Android.
 * [PokiiMap](https://github.com/kiideveloper/pokiimap) - Another PokemonGO Android app for sanning pokemons at any locations.
 
 ##### Desktop
@@ -179,7 +178,6 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 * [Pokemon Go Map For Telegram](https://github.com/robbcocco/PokemonGo-Map-forTelegram) - Live visualization of Pokemon in an area using Telegram bot.
 * [Pokemon Go Notification System](https://github.com/jxmorris12/PokemonGo-Finder) - A fork of the PokemonGo-Map repository, allowing users to search for specific Pokemon.
 * [Pokemon Go Tweets](https://github.com/vutran/pokemon-go-tweets) - Watches geolocated tweets and replies with information on surrounding Pokemon's whereabouts
-* [Pokemon Go Whatsapp Notifier](https://github.com/akleemans/pokenotifier-whatsapp) - A Pokemon Go Whatsapp notifier for specific pokemon, based on PokemonGo-Map.
 
 ##### Reverse Engineering
 
