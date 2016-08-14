@@ -191,6 +191,7 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 * [porygon](https://github.com/numinit/porygon) - [CODE] The unofficial PokemonGO Plus SDK.
 * [Unbundling Pokemon Go](https://applidium.com/en/news/unbundling_pokemon_go) - [ARTICLE] Reverse engineering article about PokemonGO.
 * [Removing Pokémon Go's Certificate Pinning](https://eaton-works.com/2016/07/31/reverse-engineering-and-removing-pokemon-gos-certificate-pinning/) - [ARTICLE] How to monitor network traffic after V .31 
+* [pokemon-go-xposed-mitm](https://github.com/ELynx/pokemon-go-xposed-mitm) - [CODE] MITM using XPosed module. RPC requests are intercepted directly inside app.
 
 #### Game Resources
 
