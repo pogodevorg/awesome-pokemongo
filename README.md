@@ -159,6 +159,7 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 * [Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller) - Play PokemonGO safely or at unavailable area.
 * [PokemonGoControllerSuite](https://github.com/adin283/PokemonGoControllerSuite) - HTML web application to control PokemonGO.
 * [pokemongo-genymotion](https://github.com/jlobos/pokemongo-genymotion) - Play Pokémon Go from your Genymotion Device.
+* [PokemonMapWalker](https://github.com/wangpy/PokemonMapWalker) - Cocoa app to play PokemonGo by moving on map manually.
 
 ##### Mappers
 
