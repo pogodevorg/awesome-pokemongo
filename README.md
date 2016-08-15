@@ -208,6 +208,7 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 * [Pokemon No Go](https://github.com/RomanTheLegend/Pokemon_NoGo) - [CODE] Play PokemonGO on a PC.
 * [Pokemon Go Plus](https://github.com/PokemonGo-Enhanced/Enhanced-Backend) - [CODE] An ambitious project aiming to enhance several features of PokemonGO.
 * [Pokemanager](https://github.com/cglatot/PokeManager) [CODE] - python bot which enables managing and transfering of Pokemon.
+* [PokeStatus](https://codecanyon.net/item/pokestatus-pokemon-go-server-status/17093442) [CODE] - Advanced, premium, pokemon go server status script.
 
 #### API Libraries
 
