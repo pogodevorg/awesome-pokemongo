@@ -108,6 +108,7 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 #### Social
 
 * [TheSilphRoad](https://www.reddit.com/r/TheSilphRoad) - Sub-reddit for TheSilphRoad community, an in-person network of PokemonGO enthusiasts.
+* [Stardust Run](http://stardust.run/) - Share your Pokédex, collection of Pokémon and progress in the game with a customizable Pokémon GO profile
 
 #### Tutorials
 
