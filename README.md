@@ -132,6 +132,10 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 
 * [Pokemap Live iOS](https://github.com/ruffnecktsk/pokemap_live_ios) - iOS application with a live pokemon map.
 
+##### Windows 10 (UWP - mobile, tablet, desktop)
+
+* [PoGo-UWP](https://github.com/ST-Apps/PoGo-UWP/releases) - Unofficial Windows 10 Mobile client.
+
 #### Online
 
 ##### Mapping
