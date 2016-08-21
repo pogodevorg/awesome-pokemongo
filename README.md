@@ -46,6 +46,7 @@ Please take a moment to read over the [contribution guidelines](https://github.c
         - [Python](#python)
         - [Ruby](#ruby)
         - [Swift](#swift)
+		- [C++](#cpp)
   - [Contributing](#contributing)
 
 - - -
@@ -259,6 +260,10 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 ##### Swift
 
 * [pgoapi-swift](https://github.com/lsapan/pgoapi-swift) - A PokemonGO API library for Swift.
+
+##### Cpp
+
+* [PokemonGo-api-cpp](https://github.com/onzlak42/PokemonGo-api-cpp) - A PokemonGO API library for C++.
 
 # Contributing
 
