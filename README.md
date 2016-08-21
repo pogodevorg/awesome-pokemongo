@@ -132,6 +132,7 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 ##### iPhone
 
 * [Pokemap Live iOS](https://github.com/ruffnecktsk/pokemap_live_ios) - iOS application with a live pokemon map.
+* [iPokeGO](https://github.com/istornz/iPokeGo) - A native iOS client to map the Pokemon around you.
 
 ##### Windows 10 (UWP - mobile, tablet, desktop)
 
