@@ -177,7 +177,7 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 * [PokeLocator](https://github.com/emeth-/pokelocater) - Display pokemon nearby to your location on a map.
 * [pokelyzer](https://github.com/Brideau/pokelyzer) - A data model for doing geospatial analysis and analytics on PokemonGO Map data
 * [pokeminer](https://www.reddit.com/r/pokemongodev/comments/4tz66s/pokeminer_your_individual_pokemon_locations) - Python tool to collect PokemonGO locations in a wide area.
-* ~~[PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - Live visualization of all the pokemon in your area!~~ (Niantic cease and desist)
+* [PokemonGo-Map](https://github.com/PokemonGoMap/PokemonGo-Map) - Live visualization of all the pokemon in your area!
 * [spawnScan](https://github.com/TBTerra/spawnScan) - Mapper of all spawn points in an area.
 * [spawnTracker](https://github.com/TBTerra/spawnTracker) - Efficient mapper using spawn points and times.
 
