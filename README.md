@@ -6,8 +6,6 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 ## Core Maintainers
 
 * [KeyPhact](https://github.com/keyphact)
-* [leveled](https://github.com/leveled)
-* and the [PokemonGo - Open Data Initiative Team](https://github.com/pkmngo-odi)
 
 ## Table of Contents
 
