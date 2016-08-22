@@ -45,6 +45,8 @@ Please take a moment to read over the [contribution guidelines](https://github.c
         - [Ruby](#ruby)
         - [Swift](#swift)
 		- [C++](#cpp)
+		- [Unity](#unity)
+    - [Deadpool](#deadpool)
   - [Contributing](#contributing)
 
 - - -
@@ -132,6 +134,9 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 
 * [Pokemap Live iOS](https://github.com/ruffnecktsk/pokemap_live_ios) - iOS application with a live pokemon map.
 * [iPokeGO](https://github.com/istornz/iPokeGo) - A native iOS client to map the Pokemon around you.
+* [PoGoApiAppleWatchExample](https://github.com/crass45/PoGoApiAppleWatchExample) - Catch Pokemon from your watch
+* [PokemonGoPokedex](https://github.com/NickB23/PokemonGoPokedex) - A nice app using public API's and JSON, showcasing the Pokémon available in the first version of Pokémon GO
+* [PokemonGoTracker](https://github.com/NghiaVNguyen/PokemonGoTracker) - A Swift project developed for consumers to track spotted Pokemon.
 
 ##### Windows 10 (UWP - mobile, tablet, desktop)
 
@@ -156,6 +161,7 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 * [MMO Server Status](http://www.mmoserverstatus.com/pokemon_go) - MMO server status for PokemonGO.
 * [PokeDates](https://www.projectfixup.com/pokedates/) - The first-ever Pokemon Go dating service.
 * [Pokemon Go Server status](https://pokemongostatus.org) - Pokemon Go server status updated every minute.
+* [PokeWatch](https://twitter.com/BhamPokeWatch/lists/pokewatchbots) - A twitter bot that uses the Pokemon Go API to find rare pokemon.
 
 #### Development Resources
 
@@ -178,12 +184,15 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 * [PokemonGo-Map](https://github.com/PokemonGoMap/PokemonGo-Map) - Live visualization of all the pokemon in your area!
 * [spawnScan](https://github.com/TBTerra/spawnScan) - Mapper of all spawn points in an area.
 * [spawnTracker](https://github.com/TBTerra/spawnTracker) - Efficient mapper using spawn points and times.
+* [Pokespotter](https://github.com/brentschooley/pokespotter) - Find pokemon through the Pokemon Go API using Node.js
+* [pokego-scan-api](https://github.com/avatsaev/pokego-scan-api) - Lighweight Scan API for Pokemon Go
 
 ##### Notifiers
 
 * [Pokemon Go Map For Telegram](https://github.com/robbcocco/PokemonGo-Map-forTelegram) - Live visualization of Pokemon in an area using Telegram bot.
 * [Pokemon Go Notification System](https://github.com/jxmorris12/PokemonGo-Finder) - A fork of the PokemonGo-Map repository, allowing users to search for specific Pokemon.
 * [Pokemon Go Tweets](https://github.com/vutran/pokemon-go-tweets) - Watches geolocated tweets and replies with information on surrounding Pokemon's whereabouts
+* [PokeData](https://github.com/PokemonGoers/PokeData) - In this project you will scrape as much data as you can get about the actual sightings of Pokemons. As it turns out, players all around the world started reporting sightings of Pokemons and are logging them into a central repository (i.e. a database). We want to get this data so we can train our machine learning models.
 
 ##### Reverse Engineering
 
@@ -203,7 +212,7 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 
 * [PoGO-Awesome](https://github.com/DavydeVries/PoGO-Awesome) - [CSS] Resource that easily can be used in websites.
 * [POGOProtos](https://github.com/AeonLucid/POGOProtos) - [CODE] A central repository for all protobuf files of PokemonGO.
-* [Pokémon Go Dumper] (https://github.com/Jumboperson/PokemonGoDumper/tree/master/OldDumps) - [CODE] - C# Class Dumps and more!
+* [Pokémon Go Dumper](https://github.com/Jumboperson/PokemonGoDumper/tree/master/OldDumps) - [CODE] - C# Class Dumps and more!
 * [Pokémon Go Assets and Images](https://github.com/Superviral/Pokemon-GO-App-Assets-and-Images) - [CODE] Decompiled unity assets for Pokémon Go
 * [Pokemon SVGs](https://github.com/jnovack/pokemon-svg) - [CODE] SVG files for Pokemon game images.
 
@@ -223,10 +232,12 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 * [PokemonGoApi](https://github.com/ernilos/PokemonGoApi) - API coded in .NET in order to interact with PokemonGO servers.
 * [Pokeinventory](https://github.com/norecha/PokeInventory) - A tool for mass transfer, management of evolution/candies
 * [Pokemon-Go-Rocket-API](https://github.com/FeroxRev/Pokemon-Go-Rocket-API) - Client API Library in C#.
+* [PokemonGoDesktop.API](https://github.com/HelloKitty/PokemonGoDesktop.API)
 
 ##### Go
 
 * [pogo](https://github.com/pkmngo-odi/pogo) – PokemonGO API tools written in Golang.
+* [pokemon-golang](https://github.com/Gacnt/pokemon-golang) - A Golang implementation of Pokemon-Go's API
 
 ##### Haskell
 
@@ -235,19 +246,27 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 ##### Java
 
 * [PokeGOAPI-Java](https://github.com/Grover-c13/PokeGOAPI-Java) - PokemonGO API client.
+* [PokemonGoAPI](https://github.com/jabbink/PokemonGoAPI) - Java-API
+* [PokemonGoAPI-Java](https://github.com/Ryhau/PokemonGoAPI-Java) - Java API for Pokémon Go....
 
 ##### Node
 
 * [pogobuf](https://github.com/cyraxx/pogobuf) - A PokemonGO Client Library for node.js.
 * [Pokemon-GO-node-api](https://github.com/Armax/Pokemon-GO-node-api) - PokemonGO api node.js library.
+* [Pokemon-GO-node-api](https://github.com/d-pollard/Pokemon-GO-node-api) - Pokemon Go! Node API library
 
 ##### PHP
 
 * [pokemongo-php](https://github.com/skiplagged/pokemongo-php) - A PHP module that makes it easy to communicate with the PokemonGO API.
+* [PokemonGoAPI-PHP](https://github.com/NicklasWallgren/PokemonGoAPI-PHP) - Pokemon Go API PHP library
+* [PokeGOAPI-PHP](https://github.com/tuttarealstep/PokeGOAPI-PHP) - Pokemon GO PHP API library
+* [pogoapi-php](https://github.com/jaspervdm/pogoapi-php) - API for Pokemon Go
+* [pokapi](https://github.com/Droeftoeter/pokapi) - Pokemon API PHP. Not finished at all so far. Supports request signing.
+* [pogoapiphp](https://github.com/Marist/pogoapiphp) - PokemonGO PHP API, translation of RocketAPI
 
 ##### Python
 
-* [pgoapi](https://github.com/tejado/pgoapi) - Python PokemonGO API Library.
+* [pgoapi](https://github.com/pogodevorg/pgoapi) - Python PokemonGO API Library.
 * [Pokemon_Go_API](https://github.com/Mila432/Pokemon_Go_API) - PokemonGO API in Python.
 * [pokemongo-api](https://github.com/rubenvereecken/pokemongo-api) - PokemonGO API for Python.
 
@@ -258,10 +277,21 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 ##### Swift
 
 * [pgoapi-swift](https://github.com/lsapan/pgoapi-swift) - A PokemonGO API library for Swift.
+* [pgoapi](https://github.com/AgentFeeble/pgoapi) - A Pokèmon Go API written in swift.
 
 ##### Cpp
 
 * [PokemonGo-api-cpp](https://github.com/onzlak42/PokemonGo-api-cpp) - A PokemonGO API library for C++.
+
+##### Unity
+
+* [PokemonGoDesktop.Unity](https://github.com/HelloKitty/PokemonGoDesktop.Unity) - Implementation of the PokemonGoDesktop.API for Unity3D.
+
+### Deadpool
+
+* [node-pokemon-go-api](https://github.com/carldanley/node-pokemon-go-api) - The unofficial Pokemon Go API (while it lasts).
+* [pokemongoapi](https://github.com/fyqls/pokemongoapi) - NodeJS API that wraps Mila432/Pokemon_Go_API
+* [PokemonGoSwiftAPI](https://github.com/scotbond/PokemonGoSwiftAPI) - Swift (iOS app) port for the Pokemon GO API
 
 # Contributing
 
