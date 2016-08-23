@@ -298,7 +298,6 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 ##### Node
 
 * [pogobuf](https://github.com/cyraxx/pogobuf) - A PokemonGO Client Library for node.js.
-* [node-pogo-protos](https://github.com/cyraxx/node-pogo-protos) - Pokémon Go Protobuf files from POGOProtos, wrapped up in a Node module using protobuf.js.
 * [Pokemon-GO-node-api](https://github.com/Armax/Pokemon-GO-node-api) - PokemonGO api node.js library.
 * [Pokemon-GO-node-api](https://github.com/d-pollard/Pokemon-GO-node-api) - Pokemon Go! Node API library.
 
@@ -336,7 +335,7 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 
 ##### ES6
 
-* [pogolib](https://github.com/kevinvdburgt/pogolib) - A Pokémon Go client library written in ES6
+* [pogolib](https://github.com/kevinvdburgt/pogolib) - A Pokémon Go client library written in ES6.
 
 ### Deadpool
 
