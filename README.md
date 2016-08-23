@@ -36,6 +36,7 @@ Please take a moment to read over the [contribution guidelines](https://github.c
         - [Reverse Engineering](#reverse-engineering)
         - [Server Emulators](#server-emulators)
         - [Other](#other)
+      	- [Developers](#developers)
       - [API Libraries](#api-libraries)
         - [Protocol Buffers](#protocol-buffers)
         - [C-Sharp](#c-sharp)
@@ -225,10 +226,12 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 * [Pokemon Go IV Miner](http://www.pokemongonexus.com) - [WEBSITE] An easy way to see all of your pokemons' IVs!
 * [pokemon-go-mitm-node](https://github.com/rastapasta/pokemon-go-mitm-node) - [CODE] Intercepts the traffic between your PokemonGO App and Niantic's servers.
 * [PokemonGoDecoderForBurp](https://github.com/pokeolaf/PokemonGoDecoderForBurp) - [CODE] A simpe decoder for requests/responses made by PokemonGO in burp.
-* [porygon](https://github.com/numinit/porygon) - [CODE] - The unofficial PokemonGO Plus SDK.
+* [porygon](https://github.com/numinit/porygon) - [CODE] The unofficial PokemonGO Plus SDK.
 * [Unbundling Pokemon Go](https://applidium.com/en/news/unbundling_pokemon_go) - [ARTICLE] Reverse engineering article about PokemonGO.
 * [Removing Pokémon Go's Certificate Pinning](https://eaton-works.com/2016/07/31/reverse-engineering-and-removing-pokemon-gos-certificate-pinning/) - [ARTICLE] How to monitor network traffic after V .31 
 * [pokemon-go-xposed-mitm](https://github.com/ELynx/pokemon-go-xposed-mitm) - [CODE] Working MITM using XPosed module. As proof of concept changes nickname to IVs.
+* [PokemonGoDumper](https://github.com/Jumboperson/PokemonGoDumper) - [CODE] Jumboperson's Pokemon Go data dumper
+* [Il2CppDumper](https://github.com/Jumboperson/Il2CppDumper) - [CODE] Better version of Jumboperson's PokemonGoDumper to dump Pokemon Go data
 
 #### Game Resources
 
@@ -255,6 +258,15 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 * [pokeintel](https://github.com/pokeintel/about) - An initiative to pool all the community data that is available for Pokemon GO and export as APIs.
 * [po-server-goodies](https://github.com/po-devs/po-server-goodies) - [CODE] Pokemon Online Server scripts.js and tiers.xml
 * [pokeserver](https://github.com/ur0/pokeserver) - [CODE] PokeServer is a Pokemon GO server implementation, written in Golang.
+
+#### Developers
+
+* [PoGoDevOrg](https://github.com/pogodevorg/) - Unofficial PokemonGo Development source repos
+* [Jumboperson](https://github.com/Jumboperson/) - Works on Pokemon Go dumpers.
+* [Grover_c13](https://github.com/grover-c13) - Reverse engineer who works on POGOProtos and pgoapi. Developer of PokeGOAPI-Java.
+* [Ephemerality](https://github.com/Ephemerality) - Reverse engineer who works on POGOLib.
+* [kveykva](https://github.com/kvey) - General developer who works on pgoapi.
+* [AeonLucid](https://github.com/AeonLucid/) - Reverse engineer who works on POGOProtos and POGOLib.
 
 #### API Libraries
 
@@ -293,7 +305,6 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 
 * [PokeGOAPI-Java](https://github.com/Grover-c13/PokeGOAPI-Java) - PokemonGO API client.
 * [PokemonGoAPI](https://github.com/jabbink/PokemonGoAPI) - Java-API
-* [PokemonGoAPI-Java](https://github.com/Ryhau/PokemonGoAPI-Java) - Java API for Pokémon Go....
 
 ##### Node
 
