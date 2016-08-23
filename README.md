@@ -298,8 +298,8 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 ##### Node
 
 * [pogobuf](https://github.com/cyraxx/pogobuf) - A PokemonGO Client Library for node.js.
-* [Pokemon-GO-node-api](https://github.com/Armax/Pokemon-GO-node-api) - PokemonGO api node.js library.
-* [Pokemon-GO-node-api](https://github.com/d-pollard/Pokemon-GO-node-api) - Pokemon Go! Node API library.
+* [Armax's Pokemon-GO-node-api](https://github.com/Armax/Pokemon-GO-node-api) - PokemonGO api node.js library.
+* [d-pollard's Pokemon-GO-node-api](https://github.com/d-pollard/Pokemon-GO-node-api) - Pokemon Go! Node API library.
 
 ##### PHP
 
