@@ -36,7 +36,6 @@ Please take a moment to read over the [contribution guidelines](https://github.c
         - [Reverse Engineering](#reverse-engineering)
         - [Server Emulators](#server-emulators)
         - [Other](#other)
-      	- [Developers](#developers)
       - [API Libraries](#api-libraries)
         - [Protocol Buffers](#protocol-buffers)
         - [C-Sharp](#c-sharp)
@@ -258,15 +257,6 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 * [pokeintel](https://github.com/pokeintel/about) - An initiative to pool all the community data that is available for Pokemon GO and export as APIs.
 * [po-server-goodies](https://github.com/po-devs/po-server-goodies) - [CODE] Pokemon Online Server scripts.js and tiers.xml
 * [pokeserver](https://github.com/ur0/pokeserver) - [CODE] PokeServer is a Pokemon GO server implementation, written in Golang.
-
-#### Developers
-
-* [PoGoDevOrg](https://github.com/pogodevorg/) - Unofficial PokemonGo Development source repos
-* [Jumboperson](https://github.com/Jumboperson/) - Works on Pokemon Go dumpers.
-* [Grover_c13](https://github.com/grover-c13) - Reverse engineer who works on POGOProtos and pgoapi. Developer of PokeGOAPI-Java.
-* [Ephemerality](https://github.com/Ephemerality) - Reverse engineer who works on POGOLib.
-* [kveykva](https://github.com/kvey) - General developer who works on pgoapi.
-* [AeonLucid](https://github.com/AeonLucid/) - Reverse engineer who works on POGOProtos and POGOLib.
 
 #### API Libraries
 
