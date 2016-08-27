@@ -48,7 +48,6 @@ Please take a moment to read over the [contribution guidelines](https://github.c
         - [Swift](#swift)
 		- [C++](#cpp)
 		- [Unity](#unity)
-		- [ES6](#es6)
     - [Deadpool](#deadpool)
   - [Contributing](#contributing)
 
@@ -236,6 +235,7 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 
 #### Game Resources
 
+* [PogoDevOrg](https://github.com/pogodevorg) - [CODE] Unofficial PokemonGo development repository.
 * [PoGO-Awesome](https://github.com/DavydeVries/PoGO-Awesome) - [CSS] Resource that easily can be used in websites.
 * [POGOProtos](https://github.com/AeonLucid/POGOProtos) - [CODE] A central repository for all protobuf files of PokemonGO.
 * [Pokémon Go Dumper](https://github.com/Jumboperson/PokemonGoDumper/tree/master/OldDumps) - [CODE] C# Class Dumps and more!
@@ -265,12 +265,13 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 ##### Protocol Buffers
 
 * [POGOProtos](https://github.com/AeonLucid/POGOProtos) - A central repository for all protobuf files of PokemonGO.
+* [POGOProtos-dotnet](https://github.com/johnduhart/POGOProtos-dotnet) - Pokémon Go ProtoBufs compiled for .NET.
+* [pogo-protos](https://github.com/pogodevorg/pogo-protos) - Pokémon Go Protobuffers for Golang.
+* [pokemon-go-protobuf-types](https://github.com/relrod/pokemon-go-protobuf-types) - Haskell types for the Pokemon Go protobuf API.
+* [node-pogo-protos](https://github.com/cyraxx/node-pogo-protos) - Pokémon Go Protobuf files from POGOProtos, wrapped up in a Node module using protobuf.js. (Pure JS)
+* [pokemon-go-protobuf-node](https://github.com/rastapasta/pokemon-go-protobuf-node) - Pokemon Go protobuf protocol wrapper for node.js. (Node.JS)
 * [pogoprotos-php](https://github.com/jaspervdm/pogoprotos-php) - Compiled PHP protobufs for Pokemon GO.
-* [pokemon-go-protobuf-node](https://github.com/rastapasta/pokemon-go-protobuf-node) - Pokemon Go protobuf protocol wrapper for node.js.
-* [pogo-protos](https://github.com/pogodevorg/pogo-protos) - Pokémon Go Protobuffers for Golang
-* [node-pogo-protos](https://github.com/cyraxx/node-pogo-protos) - Pokémon Go Protobuf files from POGOProtos, wrapped up in a Node module using protobuf.js.
-* [pkmngo-proto](https://github.com/maierfelix/pkmngo-proto) - Pokemon GO Protocol Wrapper
-* [pokemon-go-protobuf-rust](https://github.com/rockneurotiko/pokemon-go-protobuf-rs) - Pokemon Go Protobufs for Rust
+* [pokemon-go-protobuf-rust](https://github.com/rockneurotiko/pokemon-go-protobuf-rs) - Pokemon Go Protobufs for Rust.
 
 ##### C-Sharp
 
@@ -326,7 +327,7 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 ##### Swift
 
 * [pgoapi-swift](https://github.com/lsapan/pgoapi-swift) - A PokemonGO API library for Swift.
-* [pgoapi](https://github.com/AgentFeeble/pgoapi) - A Pokèmon Go API written in swift.
+* [pgoapi](https://github.com/AgentFeeble/pgoapi) - A Pokèmon Go API written in Swift.
 
 ##### Cpp
 
@@ -336,15 +337,13 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 
 * [PokemonGoDesktop.Unity](https://github.com/HelloKitty/PokemonGoDesktop.Unity) - Implementation of the PokemonGoDesktop.API for Unity3D.
 
-##### ES6
-
-* [pogolib](https://github.com/kevinvdburgt/pogolib) - A Pokémon Go client library written in ES6.
-
 ### Deadpool
 
 * [node-pokemon-go-api](https://github.com/carldanley/node-pokemon-go-api) - The unofficial Pokemon Go API (while it lasts).
 * [pokemongoapi](https://github.com/fyqls/pokemongoapi) - NodeJS API that wraps Mila432/Pokemon_Go_API.
 * [PokemonGoSwiftAPI](https://github.com/scotbond/PokemonGoSwiftAPI) - Swift (iOS app) port for the Pokemon GO API.
+* [pkmngo-proto](https://github.com/maierfelix/pkmngo-proto) - Pokemon GO Protocol Wrapper.
+* [pogolib](https://github.com/kevinvdburgt/pogolib) - A Pokémon Go client library written in ES6. (REPO DELETED)
 
 # Contributing
 
