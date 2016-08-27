@@ -232,6 +232,7 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 * [pokemon-go-xposed-mitm](https://github.com/ELynx/pokemon-go-xposed-mitm) - [CODE] Working MITM using XPosed module. As proof of concept changes nickname to IVs.
 * [PokemonGoDumper](https://github.com/Jumboperson/PokemonGoDumper) - [CODE] Jumboperson's Pokemon Go data dumper
 * [Il2CppDumper](https://github.com/Jumboperson/Il2CppDumper) - [CODE] Better version of Jumboperson's PokemonGoDumper to dump Pokemon Go data
+* [PoGoMITM](https://github.com/TBulbaDB/PoGoMITM) - [CODE] A .NET MITM proxy for Pokemon Go
 
 #### Game Resources
 
