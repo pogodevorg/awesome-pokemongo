@@ -179,6 +179,7 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 * [PokeDates](https://www.projectfixup.com/pokedates/) - The first-ever Pokemon Go dating service.
 * [Pokemon Go Server status](https://pokemongostatus.org) - Pokemon Go server status updated every minute.
 * [PokeWatch](https://twitter.com/BhamPokeWatch/lists/pokewatchbots) - A twitter bot that uses the Pokemon Go API to find rare pokemon.
+* [Poke-rank](https://www.poke-rank.com) - Share your pokédex and your stats to your friends.
 
 #### Development Resources
 
