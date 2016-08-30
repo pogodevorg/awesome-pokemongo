@@ -25,7 +25,9 @@ Please take a moment to read over the [contribution guidelines](https://github.c
     - [Unofficial Software](#unofficial-software)
       - [Applications](#applications)
         - [Android](#android)
+        - [Desktop](#desktop)
         - [iPhone](#iphone)
+        - [Windows 10 (UWP)](#windows-10-uwp---mobile-tablet-desktop)
         - [Online](#online)
           - [Mapping](#mapping)
           - [Misc](#misc)
@@ -142,6 +144,7 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 * [Pokemon-Go-Ban-Check](https://github.com/Ra5tko/Pokemon-Go-Ban-Check) - A simple program that checks if your Pokemon Go account is banned.
 * [nodepocket](https://github.com/naikung/nodepocket) - Pokemon GO Client on PC
 * [pokemon-go-desktop](https://github.com/jackypan1989/pokemon-go-desktop) - Desktop app for utilizing Pokemon GO
+* [Pokétron](https://github.com/DanForbes/poketron) - An [Electron](http://electron.atom.io/) application that surfaces Pokémon GO inventory data in a simple, easy-to-use and useful manner.
 
 ##### iPhone
 
