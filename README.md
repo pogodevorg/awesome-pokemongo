@@ -151,6 +151,7 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 * [PokemonGoPokedex](https://github.com/NickB23/PokemonGoPokedex) - A nice app using public API's and JSON, showcasing the Pokémon available in the first version of Pokémon GO.
 * [PokemonGoTracker](https://github.com/NghiaVNguyen/PokemonGoTracker) - A Swift project developed for consumers to track spotted Pokemon.
 * [PoGoTool](https://github.com/LeTchang/PoGoTool) - iOS App for Pokemon Go with tools
+* [Poke-Radar](https://itunes.apple.com/ca/app/poke-radar-real-time-map-watchlist/id1137417883?mt=8) - iOS Poke-Radar with many sources inlcuding live and crowed sourced
 
 ##### Windows 10 (UWP - mobile, tablet, desktop)
 
