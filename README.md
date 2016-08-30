@@ -151,6 +151,7 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 * [PokemonGoPokedex](https://github.com/NickB23/PokemonGoPokedex) - A nice app using public API's and JSON, showcasing the Pokémon available in the first version of Pokémon GO.
 * [PokemonGoTracker](https://github.com/NghiaVNguyen/PokemonGoTracker) - A Swift project developed for consumers to track spotted Pokemon.
 * [PoGoTool](https://github.com/LeTchang/PoGoTool) - iOS App for Pokemon Go with tools
+* [GoTracker](http://gotracker.xyz) - Polished iOS app with a live map from multiple sources, has background tracking with notifications and an Apple Watch app.
 
 ##### Windows 10 (UWP - mobile, tablet, desktop)
 
@@ -228,7 +229,7 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 * [PokemonGoDecoderForBurp](https://github.com/pokeolaf/PokemonGoDecoderForBurp) - [CODE] A simpe decoder for requests/responses made by PokemonGO in burp.
 * [porygon](https://github.com/numinit/porygon) - [CODE] The unofficial PokemonGO Plus SDK.
 * [Unbundling Pokemon Go](https://applidium.com/en/news/unbundling_pokemon_go) - [ARTICLE] Reverse engineering article about PokemonGO.
-* [Removing Pokémon Go's Certificate Pinning](https://eaton-works.com/2016/07/31/reverse-engineering-and-removing-pokemon-gos-certificate-pinning/) - [ARTICLE] How to monitor network traffic after V .31 
+* [Removing Pokémon Go's Certificate Pinning](https://eaton-works.com/2016/07/31/reverse-engineering-and-removing-pokemon-gos-certificate-pinning/) - [ARTICLE] How to monitor network traffic after V .31
 * [pokemon-go-xposed-mitm](https://github.com/ELynx/pokemon-go-xposed-mitm) - [CODE] Working MITM using XPosed module. As proof of concept changes nickname to IVs.
 * [PokemonGoDumper](https://github.com/Jumboperson/PokemonGoDumper) - [CODE] Jumboperson's Pokemon Go data dumper
 * [Il2CppDumper](https://github.com/Jumboperson/Il2CppDumper) - [CODE] Better version of Jumboperson's PokemonGoDumper to dump Pokemon Go data
