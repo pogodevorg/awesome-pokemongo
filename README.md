@@ -155,6 +155,7 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 * [PokemonGoTracker](https://github.com/NghiaVNguyen/PokemonGoTracker) - A Swift project developed for consumers to track spotted Pokemon.
 * [PoGoTool](https://github.com/LeTchang/PoGoTool) - iOS App for Pokemon Go with tools
 * [GoTracker](http://gotracker.xyz) - Polished iOS app with a live map from multiple sources, has background tracking with notifications and an Apple Watch app.
+* [Poke-Radar](https://itunes.apple.com/ca/app/poke-radar-real-time-map-watchlist/id1137417883?mt=8) - iOS Poke-Radar with many sources inlcuding live and crowed sourced
 
 ##### Windows 10 (UWP - mobile, tablet, desktop)
 
