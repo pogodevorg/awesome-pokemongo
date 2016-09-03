@@ -266,6 +266,7 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 * [pokeintel](https://github.com/pokeintel/about) - An initiative to pool all the community data that is available for Pokemon GO and export as APIs.
 * [po-server-goodies](https://github.com/po-devs/po-server-goodies) - [CODE] Pokemon Online Server scripts.js and tiers.xml
 * [pokeserver](https://github.com/ur0/pokeserver) - [CODE] PokeServer is a Pokemon GO server implementation, written in Golang.
+* [PokemonGo-TSP](https://github.com/tnlin/PokemonGo-TSP) - [CODE] PokemonGo-TSP - [CODE] Solving travelling salesman problem with Simulated Annealing
 
 #### API Libraries
 
