@@ -158,6 +158,7 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 ##### Misc
 
 * [Is Pokemon Go Available Yet](https://www.ispokemongoavailableyet.com) - Get notified when PokemonGO is available in your country.
+* [PokemonGO Status](https://pokemongostatus.net) - Original PokemonGO per-region staus website
 * [MMO Server Status](http://www.mmoserverstatus.com/pokemon_go) - MMO server status for PokemonGO.
 * [Pokemon Go IV Miner](http://www.pokemongonexus.com) - An easy way to see all of your pokemons' IVs.
 * [Pokemon Go Server status](https://pokemongostatus.org) - Pokemon Go server status updated every minute.
