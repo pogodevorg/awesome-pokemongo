@@ -148,7 +148,7 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 
 ##### Windows Phone
 
-* [PoGo-UWP](https://github.com/ST-Apps/PoGo-UWP/releases) - Unofficial Windows 10 Mobile client.
+* [PoGo-UWP](https://github.com/mtaheij/PoGo-UWP/releases) - Unofficial Windows 10 (both Mobile and PC) client.
 * [PoGo](https://github.com/PoGo-Devs/PoGo) - UWP Client for Pokemon Go.
 
 #### Online
